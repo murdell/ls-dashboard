@@ -1,0 +1,579 @@
+MID,date-of-birth,region,gender,mbrship-expiry-date,club-name,additional-clubs,mbrship-type,mbrship-year,postcode,country,latitude,longitude,l1-test-date,l2-course-date,l2-pass-date,l3-course-date,l3-test-1-date,l3-pass-date,l2-or-higher,l1-test-count,l2-course-count,l2-pass-count,l3-course-count,l3-pass-count,level
+XX000001,01/01/1900,No data provided,Female,,University of Stirling,,Not a member,Not a member,,,,,11/03/2020,,,,,,1,1,0,0,0,0,1
+XX000002,01/01/1900,No data provided,Female,,Unattached to LS Club / School,,Not a member,Not a member,,,,,,13/10/2019,,,,,0,0,0,0,0,0,0
+XX000003,01/01/1900,No data provided,Female,,Edinburgh University Women's Lacrosse,,Not a member,Not a member,,,,,07/10/2019,13/10/2019,,,,,1,1,1,0,0,0,1
+XX000004,01/01/1900,No data provided,Female,,Glasgow University,,Not a member,Not a member,,,,,08/12/2018,,16/02/2019,,,,2,1,0,1,0,0,2
+XX000005,01/01/1900,No data provided,Female,,University of Dundee,,Not a member,Not a member,,,,,03/02/2020,,,,,,1,1,0,0,0,0,1
+XX000006,01/01/1900,No data provided,Female,,University of Aberdeen,,Not a member,Not a member,,,,,06/10/2019,13/10/2019,,,,,1,1,1,0,0,0,1
+XX000007,01/01/1900,No data provided,Female,,University of St Andrews,,Not a member,Not a member,,,,,12/10/2019,13/10/2020,,,,,1,1,1,0,0,0,1
+XX000008,01/01/1900,No data provided,Female,,University of Dundee,,Not a member,Not a member,,,,,13/11/2019,,,,,,1,1,0,0,0,0,1
+XX000009,01/01/1900,No data provided,Female,,University of St Andrews,,Not a member,Not a member,,,,,12/10/2019,13/10/2019,,,,,1,1,1,0,0,0,1
+XX000010,01/01/1900,No data provided,Female,,University of St Andrews,,Not a member,Not a member,,,,,12/10/2019,13/10/2019,,,,,1,1,1,0,0,0,1
+XX000011,01/01/1900,No data provided,Female,,University of St Andrews,,Not a member,Not a member,,,,,12/10/2019,13/10/2019,,,,,1,1,1,0,0,0,1
+XX000012,01/01/1900,No data provided,Female,,University of St Andrews,,Not a member,Not a member,,,,,12/10/2019,13/10/2019,,,,,1,1,1,0,0,0,1
+XX000013,01/01/1900,No data provided,Female,,Glasgow University,,Not a member,Not a member,,,,,31/12/2018,01/01/2019,16/02/2019,,,,2,1,1,1,0,0,2
+XX000014,01/01/1900,No data provided,Female,,Edinburgh University Women's Lacrosse,,Not a member,Not a member,,,,,11/10/2019,13/10/2019,,,,,1,1,1,0,0,0,1
+XX000015,01/01/1900,No data provided,Female,,University of Glasgow,,Not a member,Not a member,,,,,12/10/2019,13/10/2019,,,,,1,1,1,0,0,0,1
+XX000016,01/01/1900,No data provided,Female,,University of Dundee,,Not a member,Not a member,,,,,13/11/2019,,,,,,1,1,0,0,0,0,1
+XX000017,01/01/1900,No data provided,Female,,St Andrews University,,Not a member,Not a member,,,,,,13/10/2019,,,,,0,0,1,0,0,0,0
+XX000018,01/01/1900,No data provided,Female,,University of Glasgow,,Not a member,Not a member,,,,,08/10/2019,13/10/2019,,,,,1,1,1,0,0,0,1
+XX000019,01/01/1900,No data provided,Female,,University of St Andrews,,Not a member,Not a member,,,,,09/10/2019,,,,,,1,1,0,0,0,0,1
+XX000020,01/01/1900,No data provided,Female,,Unattached to LS Club / School,,Not a member,Not a member,,,,,,13/10/2019,,,,,0,0,0,0,0,0,0
+XX000021,01/01/1900,No data provided,Female,,University of Dundee,,Not a member,Not a member,,,,,13/11/2019,,,,,,1,1,0,0,0,0,1
+XX000022,01/01/1900,No data provided,Female,,University of Glasgow,,Not a member,Not a member,,,,,12/10/2019,13/10/2019,,,,,1,1,1,0,0,0,1
+ZZ000005,12/11/1998,"UK, Scotland",Female,31/08/2020,Edinburgh University,,Student,2019/20,EH9 1HT,"Scotland, UK",55.937309,-3.1942494,,,,,,,0,0,0,0,0,0,0
+ZZ000006,04/10/2001,"UK, Scotland",Female,31/08/2020,Primary Club missing,,Student,2019/20,EH10 7AX,"Scotland, UK",55.902353,-3.2101289,,,,,,,0,0,0,0,0,0,0
+ZZ000007,02/03/1985,"UK, Scotland",Male,31/08/2020,Edinburgh City,,Adult,2019/20,EH11 2EN,"Scotland, UK",55.941512,-3.2247668,01/01/1900,,01/01/2015,,,,2,1,0,1,0,0,2
+ZZ000008,31/12/1989,"UK, Scotland",Male,31/08/2020,Edinburgh City,,Adult,2019/20,EH11 2LJ,"Scotland, UK",55.940781,-3.2259445,,,,,,,0,0,0,0,0,0,0
+ZZ000009,01/01/1901,"UK, Outside Scotland",Male,31/08/2117,Unattached to LS Club / School,,Life,2019/20,CB1 3HL,UK,52.203867,0.14884471,,,,,,,0,0,0,0,0,0,0
+ZZ000010,01/01/1901,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,EH3 8ET,"Scotland, UK",55.947864,-3.2111159,,,,,,,0,0,0,0,0,0,0
+ZZ000013,03/10/1999,"UK, Scotland",Female,31/08/2020,Robert Gordon University,,Student,2019/20,TD9 7AY,"Scotland, UK",55.428867,-2.7863597,,,,,,,0,0,0,0,0,0,0
+ZZ000014,21/11/1990,"UK, Scotland",Male,31/08/2020,Edinburgh City,,Adult,2019/20,EH26 0NB,"Scotland, UK",55.844085,-3.2079981,,,,,,,0,0,0,0,0,0,0
+ZZ000015,07/10/1994,"UK, Outside Scotland",Male,31/08/2020,Primary Club missing,,Adult,2019/20,AL4 9RY,UK,51.76552,-0.30089667,,,,,,,0,0,0,0,0,0,0
+ZZ000016,28/02/1998,"UK, Scotland",Female,31/08/2020,Edinburgh University,Senior Women,Student,2019/20,EH8 9NX,"Scotland, UK",55.941009,-3.1795537,,,,,,,0,0,0,0,0,0,0
+ZZ000017,01/01/1900,,Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,,,,,,,,,,,0,0,0,0,0,0,0
+ZZ000018,01/01/1901,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,G12 0PD,"Scotland, UK",55.884369,-4.3038138,,,,,,,0,0,0,0,0,0,0
+ZZ000019,01/01/1901,,Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,,,,,,,,,,,0,0,0,0,0,0,0
+ZZ000020,09/11/1992,Outside UK,Male,31/08/2020,Senior Men - Field,,Adult,2019/20,7719,United States,,,,,,,,,0,0,0,0,0,0,0
+ZZ000022,18/02/1976,"UK, Scotland",Female,31/08/2020,Edinburgh Thistle,,Adult,2019/20,TD3 6NH,"Scotland, UK",55.751915,-2.6274421,,,,,,,0,0,0,0,0,0,0
+ZZ000024,01/01/1901,"UK, Outside Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,BR3 1PW,UK,51.414444,-0.026988974,,,,,,,0,0,0,0,0,0,0
+ZZ000025,10/03/2004,"UK, Outside Scotland",Female,31/08/2020,Junior / U19 Women,,Junior,2019/20,WA15 8DT,UK,53.379707,-2.3242145,,,,,,,0,0,0,0,0,0,0
+ZZ000026,01/01/1901,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,EH16 6AA,"Scotland, UK",55.919988,-3.1677619,,,,,,,0,0,0,0,0,0,0
+ZZ000027,05/08/1977,"UK, Outside Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,OX10 6NU,UK,51.621197,-1.1029114,,,,,,,0,0,0,0,0,0,0
+ZZ000028,13/02/1990,"UK, Scotland",Female,31/08/2020,Glasgow City,Senior Women,Adult,2019/20,G51 1BW,"Scotland, UK",55.85276,-4.289368,,,,,,,0,0,0,0,0,0,0
+ZZ000029,01/01/1901,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,KY12 7HU,"Scotland, UK",56.068846,-3.455477,,,,,,,0,0,0,0,0,0,0
+ZZ000030,14/03/1976,"UK, Outside Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,PA14 6XZ,UK,55.916755,-4.5808681,,,,,,,0,0,0,0,0,0,0
+ZZ000037,08/07/1996,"UK, Scotland",Male,31/08/2020,Strathclyde University,Edinburgh City,Adult,2019/20,EH39 5AF,"Scotland, UK",56.023258,-2.7922402,,,,,,,0,0,0,0,0,0,0
+ZZ000038,12/10/1951,"UK, Scotland",Male,31/08/2117,Edinburgh Thistle,,Life,2019/20,EH10 6PS,"Scotland, UK",55.908137,-3.2131405,,,,,,,0,0,0,0,0,0,0
+ZZ000040,11/06/1936,"UK, Outside Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,SL4 3JB,UK,51.473572,-0.61181199,,,,,,,0,0,0,0,0,0,0
+ZZ000043,07/04/1998,"UK, Scotland",Female,31/08/2020,Edinburgh University,,Student,2019/20,EH3 6NN,"Scotland, UK",55.957268,-3.1940791,,,,,,,0,0,0,0,0,0,0
+ZZ000044,21/07/2000,"UK, Scotland",Female,31/08/2020,Edinburgh University,,Student,2019/20,EH39 4AG,"Scotland, UK",56.057745,-2.7260822,12/10/2019,13/10/2019,,,,,1,1,1,0,0,0,1
+ZZ000045,21/12/1994,"UK, Scotland",Female,31/08/2020,Edinburgh Thistle,,Adult,2019/20,G3 8NQ,"Scotland, UK",55.863955,-4.2900587,01/01/1900,,01/01/2018,07/03/2020,,,2,1,0,1,1,0,2
+ZZ000046,05/07/2000,"UK, Scotland",Female,31/08/2020,Glasgow University,Senior Women,Student,2019/20,G12 8UD,"Scotland, UK",55.874983,-4.2943851,08/12/2018,,,,,,1,1,0,0,0,0,1
+ZZ000048,01/01/1901,"UK, Outside Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,SW6 7UD,UK,51.481593,-0.20326861,,,,,,,0,0,0,0,0,0,0
+ZZ000051,07/05/1976,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,G12 8PD,"Scotland, UK",55.873169,-4.2831679,,,,,,,0,0,0,0,0,0,0
+ZZ000056,04/07/2005,"UK, Outside Scotland",Female,31/08/2020,Primary Club missing,,Junior,2019/20,W6 0PQ,UK,51.498014,-0.22934808,,,,,,,0,0,0,0,0,0,0
+ZZ000057,26/05/1997,"UK, Scotland",Male,31/08/2020,Edinburgh City,,Student,2019/20,EH9 1NJ,"Scotland, UK",55.938762,-3.1824151,,,,,,,0,0,0,0,0,0,0
+ZZ000058,18/05/1998,"UK, Scotland",Female,31/08/2020,Glasgow City,,Student,2019/20,G77 5UL,"Scotland, UK",55.772129,-4.3039458,,,,,,,0,0,0,0,0,0,0
+ZZ000061,30/07/1987,"UK, Scotland",Male,31/08/2020,Edinburgh City,Senior Men - Indoor,Adult,2019/20,EH52 6WN,"Scotland, UK",55.963089,-3.4573352,,,,,,,0,0,0,0,0,0,0
+ZZ000062,14/09/1993,"UK, Outside Scotland",Male,31/08/2020,Primary Club missing,,Adult,2019/20,L17 8SL,UK,53.381507,-2.9444361,,,,,,,0,0,0,0,0,0,0
+ZZ000064,26/01/1995,"UK, Scotland",Female,31/08/2020,Glasgow City,,Adult,2019/20,G20 6RD,"Scotland, UK",55.877905,-4.2758998,01/01/1900,,01/01/2016,,,,2,1,0,1,0,0,2
+ZZ000066,14/01/1990,"UK, Scotland",Male,31/08/2020,Senior Men - Indoor,"Dundee Ducks, Glasgow Clydesiders",Non-Playing/Supporter,2019/20,G1 4PD,"Scotland, UK",55.857345,-4.260124,,,,,,,0,0,0,0,0,0,0
+ZZ000067,24/03/1975,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,EH22 3DH,"Scotland, UK",55.889886,-3.0750798,,,,,,,0,0,0,0,0,0,0
+ZZ000069,01/01/1901,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,DG8 0HR,"Scotland, UK",54.915599,-4.620916,,,,,,,0,0,0,0,0,0,0
+ZZ000070,27/10/1997,"UK, Scotland",Female,31/08/2020,Edinburgh University,,Student,2019/20,EH3 6NB,"Scotland, UK",55.959662,-3.1917822,,,,,,,0,0,0,0,0,0,0
+ZZ000071,01/01/1901,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,EH13 0DT,"Scotland, UK",55.905318,-3.2594721,,,,,,,0,0,0,0,0,0,0
+ZZ000073,03/03/1996,"UK, Scotland",Male,31/08/2020,Robert Gordon University,"Aberdeen City, Senior Men - Field",Adult,2019/20,AB11 7SA,"Scotland, UK",57.132684,-2.1057923,,,,,,,0,0,0,0,0,0,0
+ZZ000075,06/04/1999,"UK, Scotland",Female,31/08/2020,Stirling University,,Student,2019/20,FK8 1HA,"Scotland, UK",56.1193,-3.938087,22/11/2019,,,,,,1,1,0,0,0,0,1
+ZZ000076,14/04/1998,"UK, Scotland",Female,31/08/2020,Stirling University,,Student,2019/20,FK8 2G,"Scotland, UK",0,0,,,,,,,0,0,0,0,0,0,0
+ZZ000078,18/02/1932,"UK, Outside Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,DT9 6AL,UK,50.940507,-2.532448,,,,,,,0,0,0,0,0,0,0
+ZZ000080,14/01/1998,"UK, Scotland",Female,31/08/2020,Edinburgh Capital,Senior Women,Adult,2019/20,KY13 9XT,"Scotland, UK",56.226962,-3.4177872,,,,,,,0,0,0,0,0,0,0
+ZZ000081,01/01/1901,"UK, Outside Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,GU28 0NA,UK,50.937898,-0.64779025,,,,,,,0,0,0,0,0,0,0
+ZZ000083,24/01/1968,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,EH12 6NF,"Scotland, UK",55.94299,-3.2747847,,,,,,,0,0,0,0,0,0,0
+ZZ000084,01/06/1987,"UK, Scotland",Female,31/08/2020,Edinburgh Thistle,,Non-Playing/Supporter,2019/20,FK8 1HJ,"Scotland, UK",56.121847,-3.9390195,,,,,,,0,0,0,0,0,0,0
+ZZ000085,25/01/2002,"UK, Scotland",Female,31/08/2020,Edinburgh Capital,Junior / U19 Women,Junior,2019/20,EH31 2BD,"Scotland, UK",56.03401,-2.8415036,,,,,,,0,0,0,0,0,0,0
+ZZ000088,01/01/1901,"UK, Outside Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,EX3 OAP,UK,0,0,,,,,,,0,0,0,0,0,0,0
+ZZ000091,20/12/1984,"UK, Scotland",Female,31/08/2020,Edinburgh Thistle,,Adult,2019/20,EH4 3DA,"Scotland, UK",55.950741,-3.2201258,,,,,,,0,0,0,0,0,0,0
+ZZ000094,15/07/1987,"UK, Scotland",Male,31/08/2020,Edinburgh City,,Adult,2019/20,KY15 5YR,"Scotland, UK",56.313294,-3.0019986,,,,,,,0,0,0,0,0,0,0
+ZZ000095,17/06/1961,,Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20, BT22 2AP,,,,,,,,,,0,0,0,0,0,0,0
+ZZ000096,27/07/1993,"UK, Outside Scotland",Female,31/08/2020,Primary Club missing,,Adult,2019/20,SW4 9HX,UK,51.454957,-0.14266686,,,,,,,0,0,0,0,0,0,0
+ZZ000097,31/03/1981,"UK, Scotland",Female,31/08/2020,Edinburgh Thistle,,Adult,2019/20,EH3 5EH,"Scotland, UK",55.961254,-3.1971814,01/01/1900,,01/01/2018,07/03/2020,,,2,1,0,1,1,0,2
+ZZ000098,23/09/1991,"UK, Outside Scotland",Female,31/08/2020,Senior Women,,Student,2019/20,SW11 3HX,UK,51.473567,-0.17386354,,,,,,,0,0,0,0,0,0,0
+ZZ000099,10/06/1999,"UK, Scotland",Female,31/08/2020,Dundee University,,Student,2019/20,AB51 5JU,"Scotland, UK",57.252609,-2.4619374,,,,,,,0,0,0,0,0,0,0
+ZZ000101,01/01/1901,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,KA10 7EX,"Scotland, UK",55.551332,-4.624796,,,,,,,0,0,0,0,0,0,0
+ZZ000102,26/07/1994,"UK, Outside Scotland",Female,31/08/2020,Edinburgh Thistle,,Adult,2019/20,WC1H 9QR,UK,51.526375,-0.12339966,01/01/1900,01/01/2015,,,,,1,1,1,0,0,0,1
+ZZ000103,29/10/1999,"UK, Scotland",Female,31/08/2020,Edinburgh University,,Student,2019/20,EH16 5AY,"Scotland, UK",55.940074,-3.1711361,,,,,,,0,0,0,0,0,0,0
+ZZ000105,09/12/1997,"UK, Scotland",Male,31/08/2020,Glasgow University,,Student,2019/20,G3 8TE,"Scotland, UK",55.865613,-4.2864004,,,,,,,0,0,0,0,0,0,0
+ZZ000106,01/01/1900,"UK, Outside Scotland",Female,31/08/2117,Edinburgh University,,Life,2019/20,KT22 0SP,UK,51.333108,-0.35126764,,,,,,,0,0,0,0,0,0,0
+ZZ000107,14/08/1994,"UK, Scotland",Male,31/08/2020,Robert Gordon University,Senior Men - Indoor,Student,2019/20,AB11 6XQ,"Scotland, UK",57.138931,-2.1115931,,,,,,,0,0,0,0,0,0,0
+ZZ000108,21/08/1988,"UK, Scotland",Male,31/08/2020,Edinburgh City,,Adult,2019/20,EH22 1SN,"Scotland, UK",55.913589,-3.0935265,,,,,,,0,0,0,0,0,0,0
+ZZ000112,01/01/1901,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,EH39 5LW,"Scotland, UK",56.010733,-2.7766831,,,,,,,0,0,0,0,0,0,0
+ZZ000113,09/09/1993,"UK, Scotland",Female,31/08/2020,Edinburgh Capital,,Adult,2019/20,EH9 1BQ,"Scotland, UK",55.936508,-3.1953613,,,,,,,0,0,0,0,0,0,0
+ZZ000114,23/05/1997,"UK, Scotland",Female,31/08/2020,Edinburgh Capital,Stirling University,Adult,2019/20,EH22 3DN,"Scotland, UK",55.884619,-3.0834073,,,,,,,0,0,0,0,0,0,0
+ZZ000116,24/05/1979,"UK, Scotland",Female,31/08/2020,Glasgow City,,Adult,2019/20,G61 2AZ,"Scotland, UK",55.921127,-4.3072113,01/01/1900,,01/01/2010,,,,2,1,0,1,0,0,2
+ZZ000118,01/01/1901,"UK, Outside Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,SW18 2QP,UK,51.457152,-0.18288183,,,,,,,0,0,0,0,0,0,0
+ZZ000119,01/01/1901,Outside UK,Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,,New Zealand,,,,,,,,,0,0,0,0,0,0,0
+ZZ000120,01/01/1901,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,EH11 1PG,"Scotland, UK",55.935091,-3.2297348,,,,,,,0,0,0,0,0,0,0
+ZZ000121,12/06/1981,"UK, Scotland",Male,31/08/2020,Edinburgh City,Senior Men - Indoor,Adult,2019/20,KY3 0RL,"Scotland, UK",56.061104,-3.2748419,,,,,,,0,0,0,0,0,0,0
+ZZ000122,01/01/1901,"UK, Outside Scotland",Male,31/08/2117,Unattached to LS Club / School,,Life,2019/20,SK8 7LT,UK,53.360551,-2.1917058,,,,,,,0,0,0,0,0,0,0
+ZZ000123,27/08/1996,"UK, Scotland",Male,31/08/2020,Stirling City Stags,"Glasgow City, Senior Men - Indoor",Adult,2019/20,FK8 1FB,"Scotland, UK",56.129099,-3.951533,,,,,,,0,0,0,0,0,0,0
+ZZ000125,01/01/1901,,Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,,,,,,,,,,,0,0,0,0,0,0,0
+ZZ000130,01/01/1901,"UK, Outside Scotland",Male,31/08/2117,Unattached to LS Club / School,,Life,2019/20,SK4 1NJ,UK,53.421145,-2.1667594,,,,,,,0,0,0,0,0,0,0
+ZZ000134,04/10/2018,"UK, Scotland",Male,31/08/2020,Glasgow University,"Dundee Ducks, Senior Men - Field, Senior Men - Indoor, Stirling City Stags",Student,2019/20,G41 5DA,"Scotland, UK",55.847485,-4.3032918,,,,,,,0,0,0,0,0,0,0
+ZZ000135,11/01/1985,"UK, Scotland",Male,31/08/2020,Edinburgh City,,Adult,2019/20,EH7 5SR,"Scotland, UK",55.957958,-3.1680082,,,,,,,0,0,0,0,0,0,0
+ZZ000136,10/06/1992,"UK, Scotland",Male,31/08/2020,Edinburgh City,,Adult,2019/20,EH6 5DW,"Scotland, UK",55.967621,-3.1798507,,,,,,,0,0,0,0,0,0,0
+ZZ000137,01/01/1901,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,EH4 3JD,"Scotland, UK",55.951307,-3.2345728,,,,,,,0,0,0,0,0,0,0
+ZZ000138,16/09/1992,"UK, Scotland",Female,31/08/2020,Edinburgh Thistle,,Adult,2019/20,EH7 5LR,"Scotland, UK",55.962354,-3.173475,,,,,,,0,0,0,0,0,0,0
+ZZ000140,28/03/1986,"UK, Scotland",Female,31/08/2020,Edinburgh Capital,,Adult,2019/20,EH7 5EE,"Scotland, UK",55.958665,-3.1758461,08/12/2018,,,,,,1,1,0,0,0,0,1
+ZZ000144,10/01/1986,"UK, Scotland",Female,31/08/2020,Edinburgh Capital,,Adult,2019/20,EH3 5DQ,"Scotland, UK",55.959976,-3.2010664,,,,,,,0,0,0,0,0,0,0
+ZZ000145,18/10/1999,"UK, Scotland",Female,31/08/2020,Stirling University,,Student,2019/20,FK8 1NR,"Scotland, UK",56.121048,-3.9343783,,,,,,,0,0,0,0,0,0,0
+ZZ000147,12/06/1995,"UK, Scotland",Female,31/08/2020,Glasgow City,Senior Women,Adult,2019/20,G12 8RJ,"Scotland, UK",55.8753,-4.2889204,01/01/1900,,01/01/2016,,,,2,1,0,1,0,0,2
+ZZ000149,29/11/1996,"UK, Outside Scotland",Female,31/08/2020,Edinburgh University,,Student,2019/20,TN16 1QE,UK,51.24438,0.10805984,,,,,,,0,0,0,0,0,0,0
+ZZ000150,04/06/1995,"UK, Scotland",Female,31/08/2020,Edinburgh Capital,,Adult,2019/20,EH3 6ST,"Scotland, UK",55.957331,-3.2060459,,,,,,,0,0,0,0,0,0,0
+ZZ000151,01/01/1901,"UK, Outside Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,NG32 1DP,UK,52.915711,-0.69695176,,,,,,,0,0,0,0,0,0,0
+ZZ000152,25/10/1999,Outside UK,Female,31/08/2020,Stirling University,Senior Women,Student,2019/20,LV-3401,Latvia,,,,,,,,,0,0,0,0,0,0,0
+ZZ000154,03/01/2000,"UK, Outside Scotland",Female,31/08/2020,Senior Women,,Student,2019/20,HA8 6SY,UK,51.611641,-0.29860378,,,,,,,0,0,0,0,0,0,0
+ZZ000155,06/05/1997,"UK, Scotland",Female,31/08/2020,Stirling University,,Student,2019/20,FK9 4AL,"Scotland, UK",56.153197,-4.0472831,,,,,,,0,0,0,0,0,0,0
+ZZ000156,28/02/1992,"UK, Scotland",Female,31/08/2020,Edinburgh Capital,,Adult,2019/20,EH7 4AB,"Scotland, UK",55.959025,-3.1842503,,,,,,,0,0,0,0,0,0,0
+ZZ000158,08/09/2018,"UK, Scotland",Female,31/08/2020,Edinburgh Capital,,Student,2019/20,EH12 6DQ,"Scotland, UK",55.947949,-3.240519,,,,,,,0,0,0,0,0,0,0
+ZZ000160,01/01/1901,"UK, Outside Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,HP4 3BS,UK,51.755439,-0.5763255,,,,,,,0,0,0,0,0,0,0
+ZZ000161,08/11/1996,"UK, Scotland",Female,31/08/2020,Edinburgh University,,Student,2019/20,EH8 9QT,"Scotland, UK",55.941993,-3.1810085,06/10/2019,13/10/2019,,,,,1,1,1,0,0,0,1
+ZZ000163,27/07/1998,"UK, Scotland",Female,31/08/2020,Edinburgh University,Senior Women,Student,2019/20,EH9 1BR,"Scotland, UK",55.937886,-3.1959161,08/12/2018,,01/01/2019,,,,2,1,0,1,0,0,2
+ZZ000164,30/12/1980,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,EH22 2EH,"Scotland, UK",55.897412,-3.0536667,,,,,,,0,0,0,0,0,0,0
+ZZ000165,08/12/1997,"UK, Scotland",Female,31/08/2020,Aberdeen University,,Student,2019/20,AB25 3TQ,"Scotland, UK",57.155188,-2.1039062,,,,,,,0,0,0,0,0,0,0
+ZZ000169,30/04/1998,"UK, Outside Scotland",Female,31/08/2020,Stirling University,,Student,2019/20,PH13NJ,UK,56.417287,-3.5173744,,,,,,,0,0,0,0,0,0,0
+ZZ000173,21/04/1942,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,EH52 6PY,"Scotland, UK",55.968151,-3.4901148,,,,,,,0,0,0,0,0,0,0
+ZZ000174,01/03/2002,"UK, Outside Scotland",Female,31/08/2020,Primary Club missing,,Junior,2019/20,KT24 6NT,UK,51.281494,-0.43808871,,,,,,,0,0,0,0,0,0,0
+ZZ000175,21/08/1984,"UK, Outside Scotland",Female,31/08/2020,Senior Women,Junior / U19 Women,Non-Playing/Supporter,2019/20,SW17 0AJ,UK,51.437251,-0.18286596,,,,,,,0,0,0,0,0,0,0
+ZZ000176,22/06/1970,"UK, Scotland",Female,31/08/2117,Edinburgh Thistle,,Life,2019/20,EH12 6BB,"Scotland, UK",55.948544,-3.2367268,,,,,,,0,0,0,0,0,0,0
+ZZ000177,18/11/2005,"UK, Outside Scotland",Female,31/08/2020,Junior / U19 Women,,Junior,2019/20,SW15 3LF,UK,51.452595,-0.21639653,,,,,,,0,0,0,0,0,0,0
+ZZ000178,04/10/2001,"UK, Scotland",Female,31/08/2020,Junior / U19 Women,,Student,2019/20,EH10 7AX,"Scotland, UK",55.902353,-3.2101289,,,,,,,0,0,0,0,0,0,0
+ZZ000179,15/04/1996,"UK, Scotland",Female,31/08/2020,Edinburgh Capital,,Adult,2019/20,EH3 7EG,"Scotland, UK",55.950115,-3.2170314,,,,,,,0,0,0,0,0,0,0
+ZZ000180,01/01/1901,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,EH9 1TN,"Scotland, UK",55.935822,-3.1920105,,,,,,,0,0,0,0,0,0,0
+ZZ000182,02/07/1997,"UK, Scotland",Female,31/08/2020,Strathclyde University,"Glasgow City, Senior Women",Student,2019/20,G11 7HD,"Scotland, UK",55.881794,-4.32368,,,,,,,0,0,0,0,0,0,0
+ZZ000185,24/10/1996,"UK, Scotland",Female,31/08/2020,Edinburgh University,,Student,2019/20,EH9 2AG,"Scotland, UK",55.934392,-3.1985937,,,,,,,0,0,0,0,0,0,0
+ZZ000187,26/08/1993,"UK, Scotland",Female,31/08/2020,Edinburgh Capital,Senior Women,Student,2019/20,EH14 1XS,"Scotland, UK",55.926113,-3.2361882,,,,,,,0,0,0,0,0,0,0
+ZZ000189,07/08/1994,"UK, Scotland",Female,31/08/2020,Edinburgh Capital,,Adult,2019/20,EH4 1DZ,"Scotland, UK",55.958158,-3.2160985,,,,,,,0,0,0,0,0,0,0
+ZZ000190,23/02/1961,"UK, Outside Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,SK9 6JD,UK,53.316435,-2.2456052,,,,,,,0,0,0,0,0,0,0
+ZZ000198,25/05/1993,"UK, Outside Scotland",Female,31/08/2020,Senior Women,,Adult,2019/20,SW11 3HX,UK,51.473567,-0.17386354,,,,,,,0,0,0,0,0,0,0
+ZZ000200,29/08/1996,"UK, Scotland",Male,31/08/2020,Primary Club missing,,Adult,2019/20,EH39 4NR,"Scotland, UK",56.054435,-2.7250887,,,,,,,0,0,0,0,0,0,0
+ZZ000202,26/03/2002,"UK, Outside Scotland",Female,31/08/2020,Junior / U19 Women,,Junior,2019/20,AL3 8BD,UK,51.799952,-0.44122361,,,,,,,0,0,0,0,0,0,0
+ZZ000203,01/01/1901,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,AB31 5HU,"Scotland, UK",57.046813,-2.4976989,,,,,,,0,0,0,0,0,0,0
+ZZ000205,01/01/1901,"UK, Scotland",Female,31/08/2117,Edinburgh Thistle,,Life,2019/20,EH12 6BB,"Scotland, UK",55.948544,-3.2367268,,,,,,,0,0,0,0,0,0,0
+ZZ000206,01/01/1901,"UK, Outside Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,SL6 1UT,UK,51.507315,-0.70996635,,,,,,,0,0,0,0,0,0,0
+ZZ000207,27/05/1945,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,G41 4JJ,"Scotland, UK",55.839468,-4.2941607,,,,,,,0,0,0,0,0,0,0
+ZZ000208,18/08/1992,"UK, Scotland",Female,31/08/2020,Edinburgh Capital,,Adult,2019/20,EH3 7BD,"Scotland, UK",55.950021,-3.212048,09/10/2019,13/10/2019,,,,,1,1,1,0,0,0,1
+ZZ000209,13/04/1996,"UK, Scotland",Female,31/08/2020,Glasgow City,Junior / U19 Women,Adult,2019/20,G20 6RD,"Scotland, UK",55.877905,-4.2758998,,,,,,,0,0,0,0,0,0,0
+ZZ000210,01/09/2000,"UK, Outside Scotland",Female,31/08/2020,Senior Women,,Student,2019/20,TN17 4LG,UK,51.063846,0.54458841,01/01/1900,,01/01/2017,,,,2,1,0,1,0,0,2
+ZZ000211,30/04/2003,"UK, Outside Scotland",Female,31/08/2020,Primary Club missing,,Junior,2019/20,LU7 9FR,UK,51.858552,-0.62601842,,,,,,,0,0,0,0,0,0,0
+ZZ000212,26/02/1997,"UK, Outside Scotland",Female,31/08/2020,Edinburgh University,,Adult,2019/20,EC1R 1YE,UK,51.529606,-0.1078836,,,,,,,0,0,0,0,0,0,0
+ZZ000213,01/01/1901,Outside UK,Male,31/08/2117,Unattached to LS Club / School,,Life,2019/20,,Australia,,,,,,,,,0,0,0,0,0,0,0
+ZZ000214,01/01/1901,"UK, Outside Scotland",Male,31/08/2117,Unattached to LS Club / School,,Life,2019/20,PA14 6RD,UK,55.92864,-4.6392311,,,,,,,0,0,0,0,0,0,0
+ZZ000217,19/01/1999,"UK, Scotland",Female,31/08/2020,Stirling University,,Student,2019/20,EH9 2HH,"Scotland, UK",55.927851,-3.1957669,,,,,,,0,0,0,0,0,0,0
+ZZ000220,01/01/1901,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,EH10 6AR,"Scotland, UK",55.920844,-3.2093449,,,,,,,0,0,0,0,0,0,0
+ZZ000221,11/11/1964,"UK, Outside Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,GU26 6NA,UK,51.112181,-0.75169851,,,,,,,0,0,0,0,0,0,0
+ZZ000224,01/01/1901,"UK, Outside Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,BA16 0TJ,UK,51.11622,-2.7385226,,,,,,,0,0,0,0,0,0,0
+ZZ000225,01/01/1900,,Female,31/08/2117,Edinburgh Thistle,,Life,2019/20,,,,,,,,,,,0,0,0,0,0,0,0
+ZZ000226,01/01/1901,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,EH11 6LB,"Scotland, UK",0,0,,,,,,,0,0,0,0,0,0,0
+ZZ000227,15/09/1987,"UK, Scotland",Male,31/08/2020,Edinburgh City,,Adult,2019/20,EH45 8AY,"Scotland, UK",55.652815,-3.1875908,,,,,,,0,0,0,0,0,0,0
+ZZ000230,17/10/2001,"UK, Outside Scotland",Female,31/08/2020,Senior Women,,Student,2019/20,KT22 0HR,UK,51.325542,-0.35870099,,,,,,,0,0,0,0,0,0,0
+ZZ000232,19/01/1994,"UK, Scotland",Female,31/08/2020,Glasgow City,Senior Women,Adult,2019/20,G3 6QL,"Scotland, UK",55.867835,-4.2673507,,,,,,,0,0,0,0,0,0,0
+ZZ000233,29/05/1992,"UK, Scotland",Female,31/08/2020,Edinburgh Capital,,Adult,2019/20,EH7 4EQ,"Scotland, UK",55.9645,-3.1923314,10/10/2019,,,,,,1,1,0,0,0,0,1
+ZZ000234,01/01/1901,"UK, Outside Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,GU51 3AR,UK,51.280552,-0.82800757,,,,,,,0,0,0,0,0,0,0
+ZZ000236,24/07/1940,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,EH9 2HY,"Scotland, UK",55.929276,-3.1924657,,,,,,,0,0,0,0,0,0,0
+ZZ000238,02/02/1990,"UK, Scotland",Female,31/08/2020,Edinburgh Capital,,Adult,2019/20,EH11 1LN,"Scotland, UK",55.93691,-3.2175938,,,,,,,0,0,0,0,0,0,0
+ZZ000241,25/05/1994,"UK, Scotland",Female,31/08/2020,Edinburgh Thistle,Senior Women,Adult,2019/20,KY10 3TU,"Scotland, UK",56.260874,-2.6235444,,,,,,,0,0,0,0,0,0,0
+ZZ000242,05/03/2004,"UK, Outside Scotland",Female,31/08/2020,Junior / U19 Women,,Junior,2019/20,TW9 2TJ,UK,51.467487,-0.29874488,,,,,,,0,0,0,0,0,0,0
+ZZ000243,09/06/2000,"UK, Scotland",Female,31/08/2020,Senior Women,,Student,2019/20,FK10 3PY,"Scotland, UK",56.117124,-3.7288214,,,,,,,0,0,0,0,0,0,0
+ZZ000246,08/09/1994,"UK, Scotland",Female,31/08/2020,Edinburgh Capital,,Adult,2019/20,EH6 5AT,"Scotland, UK",55.965567,-3.1832646,01/01/1900,,01/01/2014,,,,2,1,0,1,0,0,2
+ZZ000247,29/01/1990,"UK, Scotland",Female,31/08/2020,Edinburgh Capital,,Adult,2019/20,EH26 9HH,"Scotland, UK",55.828865,-3.2429989,,,,,,,0,0,0,0,0,0,0
+ZZ000250,08/08/1994,"UK, Scotland",Female,31/08/2020,Edinburgh Capital,Senior Women,Adult,2019/20,EH6 6PR,"Scotland, UK",55.976191,-3.16875,,,,,,,0,0,0,0,0,0,0
+ZZ000251,04/12/1994,"UK, Scotland",Female,31/08/2020,Stirling University,,Student,2019/20,G13 3AL,"Scotland, UK",55.889208,-4.3642969,,,,,,,0,0,0,0,0,0,0
+ZZ000252,07/05/1986,"UK, Outside Scotland",Female,31/08/2020,Senior Women,,Adult,2019/20,TW2 5TQ,UK,51.439754,-0.3432434,,,,,,,0,0,0,0,0,0,0
+ZZ000254,06/11/2001,"UK, Outside Scotland",Female,31/08/2020,Junior / U19 Women,,Junior,2019/20,TN13 3AF,UK,51.275582,0.18820372,,,,,,,0,0,0,0,0,0,0
+ZZ000258,04/05/1997,"UK, Outside Scotland",Female,31/08/2020,Edinburgh University,,Student,2019/20,CM6 3JZ,UK,51.871512,0.45719822,,,,,,,0,0,0,0,0,0,0
+ZZ000259,26/05/1991,"UK, Outside Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,NR4 7QJ,UK,52.61296,1.255884,,,,,,,0,0,0,0,0,0,0
+ZZ000260,04/09/1994,"UK, Scotland",Female,31/08/2020,Glasgow City,,Adult,2019/20,G3 8RE,"Scotland, UK",55.867344,-4.2924001,,,,,,,0,0,0,0,0,0,0
+ZZ000262,07/09/1993,"UK, Outside Scotland",Female,31/08/2020,Senior Women,,Adult,2019/20,BS6 6UJ,UK,51.470207,-2.613573,,,,,,,0,0,0,0,0,0,0
+ZZ000263,01/01/1901,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,G77 6RT,"Scotland, UK",55.756233,-4.3559067,,,,,,,0,0,0,0,0,0,0
+ZZ000264,01/01/1901,"UK, Outside Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,LE18 4UD,UK,52.585587,-1.1418188,,,,,,,0,0,0,0,0,0,0
+ZZ000266,26/03/1996,"UK, Scotland",Female,31/08/2020,Glasgow City,Senior Women,Student,2019/20,G11 6DE,"Scotland, UK",55.869989,-4.3105227,,,,,,,0,0,0,0,0,0,0
+ZZ000267,27/12/2002,"UK, Scotland",Female,31/08/2020,Primary Club missing,,Junior,2019/20,DD11 2NX,"Scotland, UK",56.555395,-2.6501475,,,,,,,0,0,0,0,0,0,0
+ZZ000272,03/10/1996,"UK, Outside Scotland",Female,31/08/2020,Senior Women,,Student,2019/20,GU22 7UJ,UK,51.310413,-0.56671051,,,,,,,0,0,0,0,0,0,0
+ZZ000280,01/01/1901,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,EH16 6LR,"Scotland, UK",55.913661,-3.1669477,,,,,,,0,0,0,0,0,0,0
+ZZ000281,04/02/1993,"UK, Outside Scotland",Female,31/08/2020,Primary Club missing,,Adult,2019/20,DT9 5PN,UK,50.907242,-2.4723904,,,,,,,0,0,0,0,0,0,0
+ZZ000282,04/01/1997,"UK, Scotland",Female,31/08/2020,Dundee University,Senior Women,Adult,2019/20,DD2 1BW,"Scotland, UK",56.456071,-2.9984373,,,,,,,0,0,0,0,0,0,0
+ZZ000284,06/03/2003,"UK, Scotland",Female,31/08/2020,Fettes College,,Junior,2019/20,DG9 0NX,"Scotland, UK",54.977305,-5.0817555,,,,,,,0,0,0,0,0,0,0
+ZZ000285,01/01/1901,"UK, Outside Scotland",Male,31/08/2117,Unattached to LS Club / School,,Life,2019/20,SK4 3JR,UK,53.415041,-2.1911086,,,,,,,0,0,0,0,0,0,0
+ZZ000286,01/01/1901,"UK, Outside Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,WS9 8LH,UK,52.61545,-1.9090506,,,,,,,0,0,0,0,0,0,0
+ZZ000287,11/09/1988,"UK, Scotland",Male,31/08/2020,Robert Gordon University,,Student,2019/20,AB25 2YH,"Scotland, UK",57.149607,-2.1164182,07/10/2019,,,,,,1,1,0,0,0,0,1
+ZZ000288,27/09/2018,"UK, Outside Scotland",Male,31/08/2020,Senior Men - Indoor,,Student,2019/20,SE16 5XS,UK,51.50691,-0.042739021,,,,,,,0,0,0,0,0,0,0
+ZZ000292,28/12/1999,"UK, Outside Scotland",Female,31/08/2020,Edinburgh University,,Student,2019/20,GU8 6AH,UK,51.200759,-0.66318245,,,,,,,0,0,0,0,0,0,0
+ZZ000293,29/11/1995,"UK, Scotland",Female,31/08/2020,Glasgow City,,Student,2019/20,G12 0BF,"Scotland, UK",55.887301,-4.3123513,,,,,,,0,0,0,0,0,0,0
+ZZ000295,06/05/1998,"UK, Scotland",Female,31/08/2020,Edinburgh Thistle,,Student,2019/20,EH12 5LL,"Scotland, UK",55.943631,-3.2311583,,,,,,,0,0,0,0,0,0,0
+ZZ000296,14/03/2002,"UK, Outside Scotland",Female,31/08/2020,Junior / U19 Women,,Junior,2019/20,SW14 8DR,UK,51.465812,-0.26117387,,,,,,,0,0,0,0,0,0,0
+ZZ000297,25/01/1990,"UK, Scotland",Female,31/08/2020,Edinburgh Capital,,Adult,2019/20,EH4 1LT,"Scotland, UK",55.958639,-3.2091459,,,,,,,0,0,0,0,0,0,0
+ZZ000298,19/05/2003,"UK, Scotland",Female,31/08/2020,Edinburgh Thistle,"Junior / U19 Women, Loretto",Student,2019/20,EH46 7AZ,"Scotland, UK",55.753343,-3.3041544,,,,,,,0,0,0,0,0,0,0
+ZZ000299,29/01/1992,"UK, Scotland",Female,31/08/2020,Edinburgh Capital,Senior Women,Student,2019/20,EH11 1EQ,"Scotland, UK",55.935607,-3.2266455,,,,,,,0,0,0,0,0,0,0
+ZZ000300,01/01/1901,"UK, Outside Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,IP8 4QS,UK,52.104212,1.0479191,,,,,,,0,0,0,0,0,0,0
+ZZ000302,26/09/1998,"UK, Outside Scotland",Female,31/08/2020,Senior Women,,Student,2019/20,SW14 8AU,UK,51.461474,-0.26332534,01/01/1900,,01/01/2015,,,,2,1,0,1,0,0,2
+ZZ000305,11/11/1999,"UK, Scotland",Male,31/08/2020,Strathclyde University,Border City Lacrosse,Student,2019/20,G4 0XZ,"Scotland, UK",55.860199,-4.2357919,,,,,,,0,0,0,0,0,0,0
+ZZ000306,01/01/1901,Outside UK,Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,,USA,,,,,,,,,0,0,0,0,0,0,0
+ZZ000311,27/05/1992,"UK, Scotland",Male,31/08/2020,Glasgow City,Dundee Ducks,Adult,2019/20,G41 3LR,"Scotland, UK",55.827588,-4.2819966,,,,,,,0,0,0,0,0,0,0
+ZZ000313,28/04/1989,"UK, Scotland",Male,31/08/2020,Primary Club missing,"Senior Men - Field, Senior Men - Indoor, Stirling City Stags",Non-Playing/Supporter,2019/20,G33 1RL,"Scotland, UK",55.895017,-4.1927542,,,,,,,0,0,0,0,0,0,0
+ZZ000314,09/03/1982,"UK, Scotland",Male,31/08/2020,Glasgow City,,Adult,2019/20,G1 1QD,"Scotland, UK",55.859122,-4.2406199,,,,,,,0,0,0,0,0,0,0
+ZZ000315,01/01/1901,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,KY16 8SR,"Scotland, UK",56.300065,-2.6564366,,,,,,,0,0,0,0,0,0,0
+ZZ000316,25/03/1953,"UK, Outside Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,LE2 2FS,UK,52.595667,-1.0138304,,,,,,,0,0,0,0,0,0,0
+ZZ000317,02/02/1995,"UK, Scotland",Male,31/08/2020,Glasgow University,,Student,2019/20,G13 1TW,"Scotland, UK",55.88465,-4.3493081,,,,,,,0,0,0,0,0,0,0
+ZZ000318,21/08/2003,"UK, Outside Scotland",Female,31/08/2020,Primary Club missing,,Junior,2019/20,SO24 9RT,UK,51.144622,-1.1022143,,,,,,,0,0,0,0,0,0,0
+ZZ000320,01/01/1901,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,EH9 1RY,"Scotland, UK",55.935454,-3.1703723,,,,,,,0,0,0,0,0,0,0
+ZZ000321,07/01/1995,"UK, Outside Scotland",Female,31/08/2020,Senior Women,,Adult,2019/20,B13 8BU,UK,52.451013,-1.8853895,,,,,,,0,0,0,0,0,0,0
+ZZ000322,19/05/1984,"UK, Scotland",Female,31/08/2020,Edinburgh Thistle,,Adult,2019/20,EH22 2ED,"Scotland, UK",55.897761,-3.0422737,01/01/1900,,01/01/2011,,,01/01/2013,3,1,0,1,0,1,3
+ZZ000323,01/01/1900,"UK, Outside Scotland",Female,31/08/2117,Edinburgh Thistle,,Life,2019/20,LP21 5RH,UK,0,0,,,,,,,0,0,0,0,0,0,0
+ZZ000324,01/01/1901,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,G41 2AZ,"Scotland, UK",55.836022,-4.2735313,,,,,,,0,0,0,0,0,0,0
+ZZ000325,01/01/1901,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,G62 7JX,"Scotland, UK",55.94814,-4.3284229,,,,,,,0,0,0,0,0,0,0
+ZZ000326,01/01/1901,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,PA11 3AN,"Scotland, UK",55.854255,-4.5781113,,,,,,,0,0,0,0,0,0,0
+ZZ000328,02/02/1993,"UK, Scotland",Female,31/08/2020,Edinburgh Capital,,Adult,2019/20,EH10 5QH,"Scotland, UK",55.923449,-3.2112984,,,,,,,0,0,0,0,0,0,0
+ZZ000329,19/12/1986,"UK, Scotland",Female,31/08/2020,Edinburgh Thistle,,Adult,2019/20,EH9 1LU,"Scotland, UK",55.938326,-3.1847872,01/01/1900,,01/01/2012,,,,2,1,0,1,0,0,2
+ZZ000330,02/05/1962,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,EH31 2BB,"Scotland, UK",56.034051,-2.8381183,,,,,,,0,0,0,0,0,0,0
+ZZ000331,01/01/1901,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,EH14 1HL,"Scotland, UK",55.920211,-3.242257,,,,,,,0,0,0,0,0,0,0
+ZZ000332,15/03/1958,"UK, Scotland",Female,31/08/2117,Edinburgh Thistle,,Life,2019/20,EH10 6PS,"Scotland, UK",55.908137,-3.2131405,,,,,,,0,0,0,0,0,0,0
+ZZ000333,01/01/1901,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,KY2 5ND,"Scotland, UK",56.107615,-3.1814618,,,,,,,0,0,0,0,0,0,0
+ZZ000337,03/01/1992,"UK, Outside Scotland",Female,31/08/2020,Senior Women,,Adult,2019/20,PO4 0RT,UK,50.779841,-1.0769183,,,,,,,0,0,0,0,0,0,0
+ZZ000340,26/09/1994,"UK, Scotland",Male,31/08/2020,Edinburgh City,Senior Men - Indoor,Student,2019/20,EH18 1AU,"Scotland, UK",55.890831,-3.1173182,,,,,,,0,0,0,0,0,0,0
+ZZ000341,20/10/1988,"UK, Scotland",Male,31/08/2020,Edinburgh City,,Adult,2019/20,EH11 3QQ,"Scotland, UK",55.929628,-3.2696241,,,,,,,0,0,0,0,0,0,0
+ZZ000342,01/01/1901,"UK, Outside Scotland",Male,31/08/2117,Unattached to LS Club / School,,Life,2019/20,SK4 3LH,UK,53.416894,-2.1846021,,,,,,,0,0,0,0,0,0,0
+ZZ000343,21/03/1997,"UK, Scotland",Male,31/08/2020,Strathclyde University,Senior Men - Indoor,Student,2019/20,G41 5DA,"Scotland, UK",55.847485,-4.3032918,,,,,,,0,0,0,0,0,0,0
+ZZ000344,30/06/1950,Outside UK,Male,31/08/2117,Unattached to LS Club / School,,Life,2019/20,32230,France,,,,,,,,,0,0,0,0,0,0,0
+ZZ000345,19/12/1994,"UK, Scotland",Male,31/08/2020,Glasgow City,Senior Men - Indoor,Adult,2019/20,G77 5TH,"Scotland, UK",55.775673,-4.3109958,,,,,,,0,0,0,0,0,0,0
+ZZ000350,23/04/1999,"UK, Outside Scotland",Male,31/08/2020,Senior Men - Field,,Student,2019/20,SK9 4AL,UK,53.334149,-2.2380186,,,,,,,0,0,0,0,0,0,0
+ZZ000351,01/01/1901,"UK, Outside Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,TN38 0LJ,UK,50.857842,0.54840364,,,,,,,0,0,0,0,0,0,0
+ZZ000352,29/09/1942,"UK, Outside Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,NE16 5TT,UK,54.935351,-1.6977991,,,,,,,0,0,0,0,0,0,0
+ZZ000353,29/05/1976,"UK, Outside Scotland",Female,31/08/2020,Edinburgh Thistle,,Adult,2019/20,PH1 4PX,UK,56.465109,-3.5620832,01/01/1900,,01/01/2011,,,,2,1,0,1,0,0,2
+ZZ000355,21/02/1972,"UK, Scotland",Female,31/08/2117,Edinburgh Thistle,,Life,2019/20,G77 6RR,"Scotland, UK",55.753812,-4.3372735,,,,,,,0,0,0,0,0,0,0
+ZZ000356,29/08/1996,"UK, Scotland",Female,31/08/2020,Glasgow University,,Student,2019/20,G11 7XF,"Scotland, UK",55.871945,-4.3169371,,,,,,,0,0,0,0,0,0,0
+ZZ000358,07/06/1948,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,KY16 8XL,"Scotland, UK",56.327726,-2.8236674,,,,,,,0,0,0,0,0,0,0
+ZZ000359,06/11/2001,"UK, Scotland",Female,31/08/2020,Junior / U19 Women,,Student,2019/20,EH20 9SZ,"Scotland, UK",55.878266,-3.1411735,,,,,,,0,0,0,0,0,0,0
+ZZ000366,13/07/2004,"UK, Scotland",Female,31/08/2020,Edinburgh Thistle,Junior / U19 Women,Junior,2019/20,EH4 1QH,"Scotland, UK",55.967386,-3.2224601,,,,,,,0,0,0,0,0,0,0
+ZZ000371,23/10/1990,"UK, Scotland",Female,31/08/2020,Edinburgh Capital,,Adult,2019/20,EH7 4BU,"Scotland, UK",55.961876,-3.1914338,,,,,,,0,0,0,0,0,0,0
+ZZ000376,05/02/1966,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,EH13 0QE,"Scotland, UK",55.900525,-3.2519116,,,,,,,0,0,0,0,0,0,0
+ZZ000378,12/08/1994,"UK, Scotland",Female,31/08/2020,Glasgow City,,Adult,2019/20,G20 8PS,"Scotland, UK",55.882499,-4.2845952,,,,,,,0,0,0,0,0,0,0
+ZZ000379,27/11/1989,"UK, Scotland",Female,31/08/2020,Edinburgh Capital,Senior Women,Adult,2019/20,EH7 5EF,"Scotland, UK",55.9581,-3.1757809,,,,,,,0,0,0,0,0,0,0
+ZZ000388,10/09/1984,"UK, Scotland",Female,31/08/2020,Edinburgh Capital,Senior Women,Adult,2019/20,EH6 6SA,"Scotland, UK",55.97436,-3.1685506,01/01/1900,,01/01/2010,,,,2,1,0,1,0,0,2
+ZZ000389,10/09/1996,"UK, Scotland",Female,31/08/2020,Edinburgh Capital,,Adult,2019/20,EH9 1SE,"Scotland, UK",55.934674,-3.1692283,,,,,,,0,0,0,0,0,0,0
+ZZ000390,10/03/1999,"UK, Outside Scotland",Female,31/08/2020,Senior Women,,Student,2019/20,CW10 9EU,UK,53.195157,-2.4563943,,,,,,,0,0,0,0,0,0,0
+ZZ000391,10/11/1999,"UK, Scotland",Female,31/08/2020,Stirling University,,Student,2019/20,ML12 6GF,"Scotland, UK",55.61827,-3.5351519,,,,,,,0,0,0,0,0,0,0
+ZZ000392,24/10/1999,"UK, Outside Scotland",Female,31/08/2020,Edinburgh University,,Student,2019/20,KT2 7HA,UK,51.414871,-0.27097374,,,,,,,0,0,0,0,0,0,0
+ZZ000395,19/10/1999,"UK, Scotland",Female,31/08/2020,Stirling University,,Student,2019/20,KA11 1BE,"Scotland, UK",55.627121,-4.6421274,,,,,,,0,0,0,0,0,0,0
+ZZ000396,31/08/2000,"UK, Scotland",Female,31/08/2020,Edinburgh University,,Student,2019/20,EH16 5AY,"Scotland, UK",55.940074,-3.1711361,,,,,,,0,0,0,0,0,0,0
+ZZ000400,04/12/1993,"UK, Scotland",Female,31/08/2020,Edinburgh Capital,,Adult,2019/20,EH39 4RQ,"Scotland, UK",56.053194,-2.7389057,12/01/2020,,,,,,1,1,0,0,0,0,1
+ZZ000401,01/01/1901,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,FK15 0JU,"Scotland, UK",56.189868,-3.9388401,,,,,,,0,0,0,0,0,0,0
+ZZ000402,01/01/1901,"UK, Outside Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,LA2 6LR,UK,54.075584,-2.7662248,,,,,,,0,0,0,0,0,0,0
+ZZ000403,28/01/1960,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,EH16 5QD,"Scotland, UK",55.92605,-3.1690645,,,,,,,0,0,0,0,0,0,0
+ZZ000404,28/07/2002,"UK, Outside Scotland",Female,31/08/2020,Primary Club missing,,Junior,2019/20,KT20 6LP,UK,51.297186,-0.20059457,,,,,,,0,0,0,0,0,0,0
+ZZ000405,01/01/1901,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,EH6 5FB,"Scotland, UK",55.965786,-3.1856744,,,,,,,0,0,0,0,0,0,0
+ZZ000407,01/01/1901,"UK, Outside Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,GL4 8DE,UK,51.819967,-2.2083021,,,,,,,0,0,0,0,0,0,0
+ZZ000409,30/08/2000,"UK, Scotland",Female,31/08/2020,Edinburgh University,Senior Women,Student,2019/20,EH9 1DL,"Scotland, UK",55.936708,-3.1979128,08/10/2019,13/10/2019,04/02/2020,,,,2,1,1,1,0,0,2
+ZZ000410,01/01/1901,"UK, Outside Scotland",Male,31/08/2117,Unattached to LS Club / School,,Life,2019/20,ST7 2HY,UK,53.096706,-2.3260089,,,,,,,0,0,0,0,0,0,0
+ZZ000413,18/01/1997,"UK, Outside Scotland",Female,31/08/2020,Dundee University,Senior Women,Student,2019/20,PH8 0HE,UK,56.592035,-3.4758905,,,,,,,0,0,0,0,0,0,0
+ZZ000415,28/01/2000,"UK, Scotland",Female,31/08/2020,Glasgow University,Senior Women,Student,2019/20,G12 8JE,"Scotland, UK",55.875295,-4.2843479,,,,,,,0,0,0,0,0,0,0
+ZZ000418,15/02/2003,"UK, Outside Scotland",Female,31/08/2020,Primary Club missing,,Junior,2019/20,SW6 4SJ,UK,51.474983,-0.19442765,,,,,,,0,0,0,0,0,0,0
+ZZ000421,01/01/1900,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,G12 9PB,"Scotland, UK",55.879988,-4.3020992,,,,,,,0,0,0,0,0,0,0
+ZZ000423,01/01/1901,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,G61 1ED,"Scotland, UK",55.91204,-4.3372992,,,,,,,0,0,0,0,0,0,0
+ZZ000424,01/01/1901,"UK, Outside Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,PA16 7PY,UK,55.960958,-4.7922977,,,,,,,0,0,0,0,0,0,0
+ZZ000425,01/01/1901,Outside UK,Male,31/08/2117,Unattached to LS Club / School,,Life,2019/20,,USA,,,,,,,,,0,0,0,0,0,0,0
+ZZ000427,03/09/1958,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,EH32 0LB,"Scotland, UK",55.975865,-2.8966775,,,,,,,0,0,0,0,0,0,0
+ZZ000430,08/12/1988,"UK, Scotland",Male,31/08/2020,Stirling City Stags,,Adult,2019/20,G1 4EP,"Scotland, UK",55.855736,-4.2537829,,,,,,,0,0,0,0,0,0,0
+ZZ000431,01/01/1901,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,EH9 1BN,"Scotland, UK",55.936776,-3.1964101,,,,,,,0,0,0,0,0,0,0
+ZZ000432,01/01/1901,"UK, Outside Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,CM2 8NS,UK,51.703067,0.47211362,,,,,,,0,0,0,0,0,0,0
+ZZ000436,01/09/1992,"UK, Scotland",Male,31/08/2020,Robert Gordon University,,Adult,2019/20,AB25 2PD,"Scotland, UK",57.146316,-2.1204733,,,,,,,0,0,0,0,0,0,0
+ZZ000438,01/01/1901,"UK, Outside Scotland",Male,31/08/2117,Unattached to LS Club / School,,Life,2019/20,M43 7TY,UK,53.489477,-2.1289273,,,,,,,0,0,0,0,0,0,0
+ZZ000439,03/08/1982,"UK, Scotland",Male,31/08/2020,Edinburgh City,Senior Men - Indoor,Adult,2019/20,EH3 5NJ,"Scotland, UK",55.967637,-3.2051649,,,,,,,0,0,0,0,0,0,0
+ZZ000440,17/01/1973,"UK, Scotland",Female,31/08/2020,Edinburgh Thistle,,Adult,2019/20,TD2 6SA,"Scotland, UK",55.685817,-2.7149422,,,,,,,0,0,0,0,0,0,0
+ZZ000441,29/06/1962,"UK, Outside Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,PH10 7JD,UK,56.638606,-3.3474464,,,,,,,0,0,0,0,0,0,0
+ZZ000443,14/06/1986,"UK, Scotland",Male,31/08/2020,Edinburgh University,"Senior Men - Indoor, Senior Men - Field",Student,2019/20,EH8 8BA,"Scotland, UK",55.951199,-3.1767247,,,,,,,0,0,0,0,0,0,0
+ZZ000445,29/03/1990,Outside UK,Male,31/08/2020,Senior Men - Field,,Adult,2019/20,V6B 0N3,Canada,,,,,,,,,0,0,0,0,0,0,0
+ZZ000447,08/05/1994,"UK, Scotland",Male,31/08/2020,Glasgow City,"Senior Men - Indoor, Senior Men - Field, Robert Gordon University",Adult,2019/20,G77 5HT,"Scotland, UK",55.773373,-4.3138254,,,,,,,0,0,0,0,0,0,0
+ZZ000448,05/02/1999,"UK, Scotland",Female,31/08/2020,Stirling University,,Student,2019/20,FK8 1JW,"Scotland, UK",56.123299,-3.9392695,,,,,,,0,0,0,0,0,0,0
+ZZ000450,01/01/1901,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,EH37 5RN,"Scotland, UK",55.876122,-3.0002491,,,,,,,0,0,0,0,0,0,0
+ZZ000452,31/08/1998,"UK, Scotland",Female,31/08/2020,Edinburgh University,Senior Women,Student,2019/20,EH9 1DE,"Scotland, UK",55.936781,-3.1986675,,,,,,,0,0,0,0,0,0,0
+ZZ000454,16/11/1998,"UK, Outside Scotland",Female,31/08/2020,Edinburgh University,,Student,2019/20,HG3 1ST,UK,53.974168,-1.7108738,,,,,,,0,0,0,0,0,0,0
+ZZ000456,06/05/1993,"UK, Scotland",Male,31/08/2020,Edinburgh City,"Senior Men - Indoor, Senior Men - Field",Adult,2019/20,EH6 6QH,"Scotland, UK",55.976433,-3.167876,,,,,,,0,0,0,0,0,0,0
+ZZ000457,25/04/1995,"UK, Outside Scotland",Male,31/08/2020,Primary Club missing,,Adult,2019/20,AL2 3HP,UK,51.725223,-0.35626996,,,,,,,0,0,0,0,0,0,0
+ZZ000459,29/05/1988,"UK, Scotland",Male,31/08/2020,Edinburgh City,,Adult,2019/20,EH14 1PB,"Scotland, UK",55.931153,-3.237197,,,,,,,0,0,0,0,0,0,0
+ZZ000460,25/03/1996,"UK, Scotland",Female,31/08/2020,Edinburgh Thistle,,Adult,2019/20,EH4 1EU,"Scotland, UK",55.956852,-3.2164259,31/12/2018,01/01/2019,22/09/2019,,,,2,1,1,1,0,0,2
+ZZ000461,27/08/1954,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,EH16 6GE,"Scotland, UK",55.907811,-3.1497676,,,,,,,0,0,0,0,0,0,0
+ZZ000463,21/05/1990,"UK, Scotland",Female,31/08/2020,Edinburgh Capital,,Adult,2019/20,EH6 5JJ,"Scotland, UK",55.97192,-3.1813435,08/12/2018,,,,,,1,1,0,0,0,0,1
+ZZ000467,01/01/1901,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,G41 5JA,"Scotland, UK",55.845423,-4.2914445,,,,,,,0,0,0,0,0,0,0
+ZZ000470,30/09/1998,"UK, Scotland",Female,31/08/2020,Edinburgh University,,Student,2019/20,EH9 1DS,"Scotland, UK",55.937809,-3.2011166,,,,,,,0,0,0,0,0,0,0
+ZZ000471,02/11/1996,"UK, Scotland",Female,31/08/2020,Edinburgh Thistle,,Student,2019/20,TD9 8LS,"Scotland, UK",55.455677,-2.6918448,,,,,,,0,0,0,0,0,0,0
+ZZ000473,29/09/1994,"UK, Outside Scotland",Male,31/08/2020,Aberdeen University,,Student,2019/20,HP18 0EZ,UK,51.842609,-0.85063207,,,,,,,0,0,0,0,0,0,0
+ZZ000474,13/12/1996,"UK, Outside Scotland",Female,31/08/2020,Primary Club missing,,Adult,2019/20,NW10 1EE,UK,51.55267,-0.24069895,01/01/1900,,01/01/2017,,,,2,1,0,1,0,0,2
+ZZ000475,05/12/1990,"UK, Scotland",Female,31/08/2020,Edinburgh Capital,,Adult,2019/20,EH6 4TW,"Scotland, UK",55.981109,-3.1937881,,,,,,,0,0,0,0,0,0,0
+ZZ000478,01/01/1900,"UK, Scotland",Female,31/08/2117,Glasgow University,,Life,2019/20,G20 7SR,"Scotland, UK",55.883935,-4.277436,,,,,,,0,0,0,0,0,0,0
+ZZ000480,22/04/1999,"UK, Outside Scotland",Female,31/08/2020,Glasgow City,,Student,2019/20,PA8 6JE,UK,55.899496,-4.4638499,,,,,,,0,0,0,0,0,0,0
+ZZ000481,19/09/1995,"UK, Scotland",Female,31/08/2020,Edinburgh Capital,,Student,2019/20,EH3 9HW,"Scotland, UK",55.9426,-3.2008647,08/12/2018,31/12/2018,01/01/2019,07/03/2020,,,2,1,1,1,1,0,2
+ZZ000482,18/04/1984,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,EH12 6HY,"Scotland, UK",55.946657,-3.2474913,,,,,,,0,0,0,0,0,0,0
+ZZ000483,01/01/1901,Outside UK,Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,,USA,,,,,,,,,0,0,0,0,0,0,0
+ZZ000485,01/01/1901,"UK, Outside Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,DH1 3LH,UK,54.763068,-1.5814228,,,,,,,0,0,0,0,0,0,0
+ZZ000488,13/01/1991,"UK, Scotland",Male,31/08/2020,Edinburgh City,,Adult,2019/20,EH7 4EE,"Scotland, UK",55.963685,-3.1939244,,,,,,,0,0,0,0,0,0,0
+ZZ000489,27/08/1999,"UK, Scotland",Male,31/08/2020,Edinburgh University,,Student,2019/20,EH9 1JN,"Scotland, UK",55.938741,-3.1920841,,,,,,,0,0,0,0,0,0,0
+ZZ000490,25/05/1994,"UK, Scotland",Female,31/08/2020,Edinburgh Thistle,Senior Women,Adult,2019/20,G11 5EG,"Scotland, UK",55.872686,-4.3037771,01/01/1900,,01/01/2014,,,,2,1,0,1,0,0,2
+ZZ000491,26/01/1986,"UK, Scotland",Female,31/08/2020,Edinburgh University,,Non-Playing/Supporter,2019/20,EH5 2FA,"Scotland, UK",55.970382,-3.2283548,,,,,,,0,0,0,0,0,0,0
+ZZ000494,11/06/2005,"UK, Scotland",Female,31/08/2020,Edinburgh Thistle,Junior / U19 Women,Junior,2019/20,EH5 3QB,"Scotland, UK",55.972424,-3.2090472,,,,,,,0,0,0,0,0,0,0
+ZZ000496,01/01/1901,"UK, Outside Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,PA13 4BA,UK,55.886161,-4.6211845,,,,,,,0,0,0,0,0,0,0
+ZZ000497,01/01/1901,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,KY12 7HU,"Scotland, UK",56.068846,-3.455477,,,,,,,0,0,0,0,0,0,0
+ZZ000498,01/01/1901,"UK, Outside Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,HA5 1NW,UK,51.577573,-0.38604998,,,,,,,0,0,0,0,0,0,0
+ZZ000499,22/05/1991,"UK, Scotland",Male,31/08/2020,Robert Gordon University,,Adult,2019/20,AB12 3HE,"Scotland, UK",57.10416,-2.0857867,,,,,,,0,0,0,0,0,0,0
+ZZ000501,23/12/1984,"UK, Outside Scotland",Male,31/08/2020,Primary Club missing,,Adult,2019/20,SE9 1HQ,UK,51.454494,0.056364791,,,,,,,0,0,0,0,0,0,0
+ZZ000502,28/01/1994,"UK, Scotland",Male,31/08/2020,Robert Gordon University,Senior Men - Indoor,Student,2019/20,AB15 6YQ,"Scotland, UK",57.146596,-2.1656729,,,,,,,0,0,0,0,0,0,0
+ZZ000503,08/06/1959,"UK, Scotland",Male,31/08/2020,Primary Club missing,,Non-Playing/Supporter,2019/20,AB39 3QL,"Scotland, UK",57.026192,-2.2397406,,,,,,,0,0,0,0,0,0,0
+ZZ000504,04/02/2001,"UK, Outside Scotland",Female,31/08/2020,Senior Women,,Student,2019/20,RH8 9LF,UK,51.257298,-0.011896944,,,,,,,0,0,0,0,0,0,0
+ZZ000508,26/09/1989,"UK, Scotland",Female,31/08/2020,Edinburgh Capital,Senior Women,Adult,2019/20,EH3 5QP,"Scotland, UK",55.969989,-3.2071768,,,,,,,0,0,0,0,0,0,0
+ZZ000509,20/11/1995,"UK, Scotland",Female,31/08/2020,Edinburgh Thistle,,Adult,2019/20,EH1 2AS,"Scotland, UK",55.948645,-3.2084501,,,,,,,0,0,0,0,0,0,0
+ZZ000510,07/04/1958,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,FK8 3NR,"Scotland, UK",56.123138,-4.2590084,,,,,,,0,0,0,0,0,0,0
+ZZ000516,23/04/1997,"UK, Scotland",Female,31/08/2020,Strathclyde University,,Adult,2019/20,IV2 3HT,"Scotland, UK",57.468044,-4.2136374,,,,,,,0,0,0,0,0,0,0
+ZZ000520,15/06/1995,"UK, Scotland",Female,31/08/2117,Aberdeen University,,Life,2019/20,AB24 5RL,"Scotland, UK",57.162467,-2.0886831,,,,,,,0,0,0,0,0,0,0
+ZZ000521,05/04/2005,"UK, Scotland",Female,31/08/2020,Edinburgh Thistle,Junior / U19 Women,Junior,2019/20,EH6 4NZ,"Scotland, UK",55.975581,-3.1875285,,,,,,,0,0,0,0,0,0,0
+ZZ000522,04/05/1945,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,EH22 3DH,"Scotland, UK",55.889886,-3.0750798,,,,,,,0,0,0,0,0,0,0
+ZZ000523,01/01/1901,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,EH6 4QT,"Scotland, UK",55.972598,-3.1920839,,,,,,,0,0,0,0,0,0,0
+ZZ000524,01/01/1901,"UK, Outside Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,EX10 8SR,UK,50.678388,-3.2475106,,,,,,,0,0,0,0,0,0,0
+ZZ000526,02/01/1981,"UK, Scotland",Female,31/08/2117,Aberdeen City,,Life,2019/20,AB39 2QH,"Scotland, UK",56.95875,-2.2329929,,,,,,,0,0,0,0,0,0,0
+ZZ000528,13/08/1988,"UK, Scotland",Female,31/08/2020,Glasgow City,Senior Women,Adult,2019/20,G14 9HL,"Scotland, UK",55.878475,-4.3446501,,,,,,,0,0,0,0,0,0,0
+ZZ000530,23/11/1987,"UK, Outside Scotland",Male,31/08/2020,Senior Men - Field,,Adult,2019/20,TW8 0GH,UK,51.490261,-0.30092227,,,,,,,0,0,0,0,0,0,0
+ZZ000532,03/05/2000,Outside UK,Male,31/08/2020,Senior Men - Field,,Adult,2019/20,L9T 4R9,Canada,,,,,,,,,0,0,0,0,0,0,0
+ZZ000534,01/01/1901,"UK, Scotland",Male,31/08/2117,Unattached to LS Club / School,,Life,2019/20,EH6 5FB,"Scotland, UK",55.965786,-3.1856744,,,,,,,0,0,0,0,0,0,0
+ZZ000535,09/06/1966,"UK, Scotland",Male,31/08/2117,Edinburgh City,,Life,2019/20,EH16 5QD,"Scotland, UK",55.92605,-3.1690645,01/01/1900,,01/01/2012,,,,2,1,0,1,0,0,2
+ZZ000537,22/08/1983,"UK, Scotland",Male,31/08/2020,Strathclyde University,,Adult,2019/20,G1 1SN,"Scotland, UK",55.85957,-4.2480924,,,,,,,0,0,0,0,0,0,0
+ZZ000540,13/07/1999,"UK, Scotland",Female,31/08/2020,Aberdeen University,,Student,2019/20,AB24 5SQ,"Scotland, UK",57.166036,-2.0970582,09/10/2019,13/10/2019,,,,,1,1,1,0,0,0,1
+ZZ000541,01/06/1951,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,EH17 8SN,"Scotland, UK",55.900265,-3.1705917,,,,,,,0,0,0,0,0,0,0
+ZZ000542,05/07/1997,"UK, Scotland",Female,31/08/2020,Edinburgh Capital,"Stirling University, Senior Women",Student,2019/20,FK8 1ES,"Scotland, UK",56.12404,-3.9412857,,,,,,,0,0,0,0,0,0,0
+ZZ000544,01/01/1988,"UK, Scotland",Male,31/08/2020,Stirling City Stags,,Adult,2019/20,EH49 7RW,"Scotland, UK",55.975107,-3.6244343,,,,,,,0,0,0,0,0,0,0
+ZZ000545,13/07/1995,"UK, Scotland",Female,31/08/2020,Robert Gordon University,,Adult,2019/20,AB51 0GT,"Scotland, UK",57.333066,-2.3183421,,,,,,,0,0,0,0,0,0,0
+ZZ000546,01/01/1901,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,KY2 5NW,"Scotland, UK",56.109401,-3.1723508,,,,,,,0,0,0,0,0,0,0
+ZZ000547,22/06/1996,"UK, Scotland",Female,31/08/2020,Edinburgh University,Senior Women,Student,2019/20,EH10 4QR,"Scotland, UK",55.928533,-3.2087362,,,,,,,0,0,0,0,0,0,0
+ZZ000552,24/04/1992,Outside UK,Male,31/08/2020,Senior Men - Indoor,,Adult,2019/20,V3L 2X7,Canada,,,,,,,,,0,0,0,0,0,0,0
+ZZ000553,11/03/1997,"UK, Scotland",Female,31/08/2020,Glasgow University,Edinburgh Thistle,Adult,2019/20,EH12 5QP,"Scotland, UK",55.943782,-3.2483595,31/12/2018,01/01/2019,16/02/2019,,,,2,1,1,1,0,0,2
+ZZ000562,06/06/2000,"UK, Outside Scotland",Female,31/08/2020,Edinburgh University,,Student,2019/20,SW15 6UR,UK,51.459322,-0.23067314,,,,,,,0,0,0,0,0,0,0
+ZZ000563,18/06/1999,"UK, Scotland",Female,31/08/2020,Edinburgh University,,Student,2019/20,EH16 5AY,"Scotland, UK",55.940074,-3.1711361,,,,,,,0,0,0,0,0,0,0
+ZZ000564,01/01/1901,"UK, Outside Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,SP4 6JD,UK,51.113234,-1.7503663,,,,,,,0,0,0,0,0,0,0
+ZZ000565,28/08/1990,"UK, Scotland",Male,31/08/2020,Stirling City Stags,,Adult,2019/20,FK10 2AR,"Scotland, UK",56.121092,-3.7939733,,,,,,,0,0,0,0,0,0,0
+ZZ000566,30/09/1940,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,EH3 5QD,"Scotland, UK",55.967507,-3.2092463,,,,,,,0,0,0,0,0,0,0
+ZZ000567,01/01/1901,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,G66 3AT,"Scotland, UK",55.926448,-4.145195,,,,,,,0,0,0,0,0,0,0
+ZZ000568,30/10/1942,"UK, Scotland",Female,31/08/2020,Robert Gordon University,,Adult,2019/20,AB22 8DW,"Scotland, UK",57.20125,-2.1258659,,,,,,,0,0,0,0,0,0,0
+ZZ000574,05/11/1999,"UK, Scotland",Female,31/08/2020,Edinburgh University,,Student,2019/20,EH9 1DL,"Scotland, UK",55.936708,-3.1979128,10/10/2019,13/10/2019,,,,,1,1,1,0,0,0,1
+ZZ000575,04/10/1994,"UK, Scotland",Female,31/08/2020,Edinburgh Capital,,Adult,2019/20,EH8 8HB,"Scotland, UK",55.953945,-3.168576,09/10/2019,13/10/2019,29/02/2020,,,,2,1,1,1,0,0,2
+ZZ000580,03/02/1983,"UK, Outside Scotland",Male,31/08/2020,Primary Club missing,,Adult,2019/20,TW20 8UE,UK,51.408286,-0.53330003,,,,,,,0,0,0,0,0,0,0
+ZZ000583,27/05/1995,"UK, Scotland",Female,31/08/2020,Edinburgh Thistle,,Adult,2019/20,EH21 7RY,"Scotland, UK",55.945601,-3.0483142,31/12/2018,01/01/2019,22/09/2019,,,,2,1,1,1,0,0,2
+ZZ000584,30/11/1995,"UK, Scotland",Female,31/08/2020,Edinburgh Thistle,,Adult,2019/20,EH4 1QD,"Scotland, UK",55.954912,-3.2135142,,,,,,,0,0,0,0,0,0,0
+ZZ000585,01/01/1901,"UK, Outside Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,SW2 4HF,UK,51.442806,-0.1289715,,,,,,,0,0,0,0,0,0,0
+ZZ000586,18/09/1983,"UK, Scotland",Female,31/08/2117,Edinburgh Thistle,Senior Women,Life,2019/20,EH4 1AJ,"Scotland, UK",55.959329,-3.22211,,,,,,,0,0,0,0,0,0,0
+ZZ000588,14/06/2002,"UK, Outside Scotland",Female,31/08/2020,Junior / U19 Women,,Junior,2019/20,SO21 1BB,UK,51.093514,-1.2398332,,,,,,,0,0,0,0,0,0,0
+ZZ000591,31/03/1999,"UK, Scotland",Female,31/08/2020,Stirling University,,Student,2019/20,FK8 1ER,"Scotland, UK",56.123072,-3.9422505,,,,,,,0,0,0,0,0,0,0
+ZZ000594,05/08/1992,"UK, Outside Scotland",Male,31/08/2020,Senior Men - Indoor,,Student,2019/20,YO17 6PL,UK,54.159252,-0.89743446,,,,,,,0,0,0,0,0,0,0
+ZZ000595,08/04/1993,"UK, Outside Scotland",Male,31/08/2020,Senior Men - Field,,Adult,2019/20,SG12 0HU,UK,51.813052,-0.035958102,,,,,,,0,0,0,0,0,0,0
+ZZ000596,12/11/1994,"UK, Scotland",Male,31/08/2020,Edinburgh City,Senior Men - Indoor,Adult,2019/20,EH11 1AS,"Scotland, UK",55.93965,-3.2167512,,,,,,,0,0,0,0,0,0,0
+ZZ000597,03/02/1990,"UK, Outside Scotland",Male,31/08/2020,Primary Club missing,,Adult,2019/20,SE15 6FR,UK,51.47856,-0.081640982,,,,,,,0,0,0,0,0,0,0
+ZZ000599,23/12/1994,Outside UK,Male,31/08/2020,Senior Men - Indoor,,Adult,2019/20,80124,United States,,,,,,,,,0,0,0,0,0,0,0
+ZZ000600,01/01/1901,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,G63 0LL,"Scotland, UK",56.060794,-4.3003535,,,,,,,0,0,0,0,0,0,0
+ZZ000601,01/01/1901,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,G61 3RP,"Scotland, UK",55.92435,-4.3388728,,,,,,,0,0,0,0,0,0,0
+ZZ000602,16/11/1993,"UK, Scotland",Male,31/08/2020,Edinburgh City,,Adult,2019/20,EH4 7RT,"Scotland, UK",55.957822,-3.2965596,,,,,,,0,0,0,0,0,0,0
+ZZ000603,23/06/2000,"UK, Scotland",Female,31/08/2020,Edinburgh University,,Student,2019/20,EH8 9NA,"Scotland, UK",55.941071,-3.1825175,12/10/2019,13/10/2019,,,,,1,1,1,0,0,0,1
+ZZ000604,01/01/1901,"UK, Scotland",Female,31/08/2117,Unattached to LS Club / School,,Life,2019/20,EH31 2DJ,"Scotland, UK",56.037947,-2.8266951,,,,,,,0,0,0,0,0,0,0
+ZZ000605,14/09/2001,"UK, Outside Scotland",Female,31/08/2020,Primary Club missing,,Student,2019/20,AL4 9XJ,UK,51.769266,-0.30194442,,,,,,,0,0,0,0,0,0,0
+ZZ000607,24/10/1965,"UK, Scotland",Female,31/08/2020,Robert Gordon University,Aberdeen City,Adult,2019/20,AB22 8DW,"Scotland, UK",57.20125,-2.1258659,,,,,,,0,0,0,0,0,0,0
+ZZ000608,24/06/1994,"UK, Scotland",Male,31/08/2020,Robert Gordon University,,Student,2019/20,AB11 6TA,"Scotland, UK",57.137449,-2.1112912,,,,,,,0,0,0,0,0,0,0
+ZZ000609,16/01/2000,"UK, Scotland",Female,31/08/2020,Edinburgh University,,Student,2019/20,EH3 9BL,"Scotland, UK",55.944992,-3.2034686,,,,,,,0,0,0,0,0,0,0
+ZZ000611,17/03/1999,"UK, Scotland",Female,31/08/2020,Edinburgh University,Senior Women,Student,2019/20,EH8 9PX,"Scotland, UK",55.939197,-3.1811796,31/12/2018,01/01/2019,07/10/2019,,,,2,1,1,1,0,0,2
+ZZ000622,26/09/2006,"UK, Scotland",Female,31/08/2020,Edinburgh Thistle,Junior / U19 Women,Junior,2019/20,TD8 6UJ,"Scotland, UK",55.514955,-2.6035694,,,,,,,0,0,0,0,0,0,0
+ZZ000623,03/03/1983,"UK, Scotland",Male,31/08/2020,Border City Lacrosse,,Adult,2019/20,DG1 3GZ,"Scotland, UK",55.076398,-3.584642,,,,,,,0,0,0,0,0,0,0
+ZZ000624,05/02/1974,"UK, Outside Scotland",Male,31/08/2020,Border City Lacrosse,,Adult,2019/20,CA6 5SD,UK,55.007617,-2.9715404,,,,,,,0,0,0,0,0,0,0
+ZZ000625,17/11/1987,"UK, Outside Scotland",Male,31/08/2020,Border City Lacrosse,,Adult,2019/20,CA10 1JQ,UK,54.771234,-2.642698,,,,,,,0,0,0,0,0,0,0
+ZZ000630,08/07/1967,"UK, Outside Scotland",Male,31/08/2020,Border City Lacrosse,,Adult,2019/20,LA9 7DG,UK,54.324844,-2.7421456,,,,,,,0,0,0,0,0,0,0
+ZZ000631,16/01/1985,"UK, Outside Scotland",Male,31/08/2020,Border City Lacrosse,,Adult,2019/20,CA4 0EW,UK,54.798113,-2.8487417,,,,,,,0,0,0,0,0,0,0
+ZZ000632,16/12/2005,"UK, Outside Scotland",Female,31/08/2020,Junior / U19 Women,,Junior,2019/20,SY9 5LE,UK,52.460776,-3.0403639,,,,,,,0,0,0,0,0,0,0
+ZZ000633,28/06/1965,Outside UK,Male,31/08/2020,Senior Men - Field,,Non-Playing/Supporter,2019/20,94062,United States,,,,,,,,,0,0,0,0,0,0,0
+ZZ000634,24/11/1997,"UK, Outside Scotland",Female,31/08/2020,Edinburgh University,,Student,2019/20,GU1 2SY,UK,51.243748,-0.54378294,,,,,,,0,0,0,0,0,0,0
+ZZ000635,22/08/2005,"UK, Outside Scotland",Female,31/08/2020,Edinburgh Thistle,,Junior,2019/20,PA2 6AZ,UK,55.827305,-4.435889,,,,,,,0,0,0,0,0,0,0
+ZZ000636,22/12/1997,"UK, Outside Scotland",Female,31/08/2020,Edinburgh University,,Student,2019/20,SY13 3AX,UK,52.981152,-2.7728544,,,,,,,0,0,0,0,0,0,0
+ZZ000637,20/09/2006,"UK, Scotland",Female,31/08/2020,Edinburgh Thistle,,Junior,2019/20,EH4 2UP,"Scotland, UK",55.955128,-3.225357,,,,,,,0,0,0,0,0,0,0
+ZZ000638,27/04/1995,"UK, Scotland",Male,31/08/2020,Stirling University,,Student,2019/20,FK8 1UZ,"Scotland, UK",56.125217,-3.9275407,,,,,,,0,0,0,0,0,0,0
+ZZ000640,06/12/2006,"UK, Scotland",Female,31/08/2020,Edinburgh Thistle,,Junior,2019/20,KY3 0XJ,"Scotland, UK",56.057101,-3.2976415,,,,,,,0,0,0,0,0,0,0
+ZZ000641,04/05/2006,"UK, Scotland",Female,31/08/2020,Edinburgh Thistle,,Junior,2019/20,EH9 1AZ,"Scotland, UK",55.934285,-3.2022241,,,,,,,0,0,0,0,0,0,0
+ZZ000642,22/02/2008,"UK, Scotland",Female,31/08/2020,Edinburgh Thistle,,Junior,2019/20,EH4 7AQ,"Scotland, UK",55.962028,-3.2741291,,,,,,,0,0,0,0,0,0,0
+ZZ000644,24/10/2002,"UK, Scotland",Female,31/08/2020,Edinburgh Thistle,,Junior,2019/20,EH4 1AJ,"Scotland, UK",55.959329,-3.22211,,,,,,,0,0,0,0,0,0,0
+ZZ000647,31/12/1995,"UK, Scotland",Female,31/08/2020,Edinburgh Thistle,,Adult,2019/20,EH12 5LT,"Scotland, UK",55.947418,-3.230734,,,,,,,0,0,0,0,0,0,0
+ZZ000648,12/12/1994,"UK, Outside Scotland",Male,31/08/2020,Border City Lacrosse,,Adult,2019/20,CA2 7NY,UK,54.897399,-2.9643313,,,,,,,0,0,0,0,0,0,0
+ZZ000649,20/01/2005,"UK, Outside Scotland",Female,31/08/2020,Primary Club missing,,Junior,2019/20,GU5 0BX,UK,51.19239,-0.56990274,,,,,,,0,0,0,0,0,0,0
+ZZ000651,26/10/2006,"UK, Scotland",Female,31/08/2020,Edinburgh Thistle,,Junior,2019/20,EH12 5LT,"Scotland, UK",55.947418,-3.230734,,,,,,,0,0,0,0,0,0,0
+ZZ000653,30/06/1993,"UK, Outside Scotland",Male,31/08/2020,Border City Lacrosse,,Adult,2019/20,CA1 1HL,UK,54.89478,-2.9266916,,,,,,,0,0,0,0,0,0,0
+ZZ000654,29/11/1988,"UK, Scotland",Male,31/08/2020,Dundee Ducks,,Adult,2019/20,DD4 0TH,"Scotland, UK",56.489994,-2.9037863,,,,,,,0,0,0,0,0,0,0
+ZZ000655,06/03/1996,"UK, Scotland",Male,31/08/2020,Primary Club missing,,Adult,2019/20,KY16 8SQ,"Scotland, UK",56.328625,-2.8167815,,,,,,,0,0,0,0,0,0,0
+ZZ000656,21/11/1994,"UK, Outside Scotland",Male,31/08/2020,Border City Lacrosse,,Student,2019/20,CA27 0EN,UK,54.491618,-3.601706,,,,,,,0,0,0,0,0,0,0
+ZZ000657,28/12/1994,"UK, Scotland",Male,31/08/2020,Senior Men - Field,,Adult,2019/20,G11 6QF,"Scotland, UK",55.869051,-4.3011162,,,,,,,0,0,0,0,0,0,0
+ZZ000660,31/07/1999,"UK, Outside Scotland",Female,31/08/2020,Senior Women,,Student,2019/20,RH2 7HJ,UK,51.230308,-0.19836321,,,,,,,0,0,0,0,0,0,0
+ZZ000661,17/03/1980,"UK, Scotland",Female,31/08/2020,Senior Women,,Non-Playing/Supporter,2019/20,EH7 5EE,"Scotland, UK",55.958665,-3.1758461,,,,,,,0,0,0,0,0,0,0
+ZZ000662,10/01/1995,"UK, Scotland",Male,31/08/2020,Primary Club missing,,Student,2019/20,EH7 4BS,"Scotland, UK",55.960759,-3.1917038,,,,,,,0,0,0,0,0,0,0
+ZZ000664,16/09/1998,"UK, Outside Scotland",Female,31/08/2020,Senior Women,,Student,2019/20,BA2 8PU,UK,51.320874,-2.3800102,,,,,,,0,0,0,0,0,0,0
+ZZ000667,16/01/1995,"UK, Outside Scotland",Male,31/08/2020,Primary Club missing,,Adult,2019/20,GU15 4NP,UK,51.340787,-0.74852868,,,,,,,0,0,0,0,0,0,0
+ZZ000668,08/01/1999,"UK, Scotland",Female,31/08/2020,Robert Gordon University,,Student,2019/20,AB11 6XR,"Scotland, UK",57.139649,-2.1120744,12/10/2019,13/10/2019,,,,,1,1,1,0,0,0,1
+ZZ000672,08/09/2000,"UK, Outside Scotland",Female,31/08/2020,Senior Women,,Student,2019/20,ST14 5GZ,UK,52.964149,-1.8523286,,,,,,,0,0,0,0,0,0,0
+ZZ000673,16/12/1998,"UK, Scotland",Female,31/08/2020,Robert Gordon University,,Student,2019/20,AB11 6NQ,"Scotland, UK",57.145841,-2.0982612,,,,,,,0,0,0,0,0,0,0
+ZZ000674,29/07/1998,"UK, Scotland",Female,31/08/2020,Stirling University,Senior Women,Student,2019/20,FK9 4QZ,"Scotland, UK",56.149232,-3.9203717,,,,,,,0,0,0,0,0,0,0
+ZZ000675,05/10/1999,"UK, Scotland",Male,31/08/2020,Edinburgh University,,Student,2019/20,EH3 9FE,"Scotland, UK",55.942698,-3.1972652,,,,,,,0,0,0,0,0,0,0
+ZZ000678,09/10/1997,"UK, Outside Scotland",Female,31/08/2020,Senior Women,,Adult,2019/20,HP16 0DP,UK,51.683267,-0.69852097,,,,,,,0,0,0,0,0,0,0
+ZZ000679,14/11/2002,"UK, Outside Scotland",Female,31/08/2020,Junior / U19 Women,,Junior,2019/20,W11 1TP,UK,51.515349,-0.21373015,,,,,,,0,0,0,0,0,0,0
+ZZ000680,20/03/2000,"UK, Outside Scotland",Female,31/08/2020,Senior Women,,Student,2019/20,BA2 8PU,UK,51.320874,-2.3800102,,,,,,,0,0,0,0,0,0,0
+ZZ000681,02/04/1994,"UK, Scotland",Female,31/08/2020,Glasgow City,,Student,2019/20,FK8 1RN,"Scotland, UK",56.130393,-3.9526927,,,,,,,0,0,0,0,0,0,0
+ZZ000682,22/01/1994,"UK, Outside Scotland",Female,31/08/2020,Glasgow City,,Adult,2019/20,PA7 5DE,UK,55.907043,-4.497002,,,,,,,0,0,0,0,0,0,0
+ZZ000687,13/10/1991,"UK, Scotland",Female,31/08/2020,Glasgow City,,Adult,2019/20,G52 1DG,"Scotland, UK",55.848833,-4.324332,,,,,,,0,0,0,0,0,0,0
+ZZ000691,24/11/1999,"UK, Scotland",Female,31/08/2020,Primary Club missing,,Student,2019/20,EH9 1HT,"Scotland, UK",55.937309,-3.1942494,,,,,,,0,0,0,0,0,0,0
+ZZ000696,01/02/1998,"UK, Outside Scotland",Female,31/08/2020,Senior Women,,Student,2019/20,OX14 4AQ,UK,51.642564,-1.2708513,,,,,,,0,0,0,0,0,0,0
+ZZ000699,15/09/1998,"UK, Outside Scotland",Male,31/08/2020,Border City Lacrosse,,Adult,2019/20,CA10 1QA,UK,54.706355,-2.5904884,,,,,,,0,0,0,0,0,0,0
+ZZ000700,05/09/1993,Outside UK,Male,31/08/2020,Senior Men - Indoor,,Adult,2019/20,V2M6M6,Canada,,,,,,,,,0,0,0,0,0,0,0
+ZZ000701,12/08/1998,"UK, Outside Scotland",Male,31/08/2020,Border City Lacrosse,,Student,2019/20,WA14 2BJ,UK,53.386478,-2.3578994,,,,,,,0,0,0,0,0,0,0
+ZZ000702,13/12/1985,"UK, Outside Scotland",Male,31/08/2020,Senior Men - Indoor,,Adult,2019/20,E81DA,UK,51.54621,-0.067316465,,,,,,,0,0,0,0,0,0,0
+ZZ000704,24/04/1992,"UK, Outside Scotland",Male,31/08/2020,Senior Men - Indoor,,Student,2019/20,SE16 5XS,UK,51.50691,-0.042739021,,,,,,,0,0,0,0,0,0,0
+ZZ000705,07/05/1994,Outside UK,Male,31/08/2020,Senior Men - Indoor,,Adult,2019/20,V5s3v6,Canada,,,,,,,,,0,0,0,0,0,0,0
+ZZ000706,04/01/2001,"UK, Scotland",Female,31/08/2020,Stirling University,,Student,2019/20,FK9 4LJ,"Scotland, UK",56.148617,-3.9194717,,,,,,,0,0,0,0,0,0,0
+ZZ000707,23/04/1985,Outside UK,Male,31/08/2020,Senior Men - Indoor,,Adult,2019/20,V3B8C3,Canada,,,,,,,,,0,0,0,0,0,0,0
+ZZ000708,06/04/1998,Outside UK,Male,31/08/2020,Senior Men - Field,,Adult,2019/20,12186,United States,,,,,,,,,0,0,0,0,0,0,0
+ZZ000709,27/06/2000,Outside UK,Male,31/08/2020,Primary Club missing,,Student,2019/20,V3B1L9,Canada,,,,,,,,,0,0,0,0,0,0,0
+ZZ000710,13/04/1991,Outside UK,Male,31/08/2020,Primary Club missing,,Adult,2019/20,E1G1H4,Canada,,,,,,,,,0,0,0,0,0,0,0
+ZZ000713,01/01/1905,"UK, Outside Scotland",Male,31/08/2020,Senior Men - Indoor,,Adult,2019/20,,UK,#N/A,#N/A,,,,,,,0,0,0,0,0,0,0
+ZZ000715,24/12/1989,Outside UK,Male,31/08/2020,Senior Men - Indoor,,Non-Playing/Supporter,2019/20,5010,Czech Republic,,,,,,,,,0,0,0,0,0,0,0
+ZZ000716,22/01/1994,Outside UK,Male,31/08/2020,Primary Club missing,,Non-Playing/Supporter,2019/20,v0r2w3,Canada,,,,,,,,,0,0,0,0,0,0,0
+ZZ000717,21/05/1990,"UK, Scotland",Male,31/08/2020,Senior Men - Indoor,,Adult,2019/20,G40 1JL,"Scotland, UK",0,0,,,,,,,0,0,0,0,0,0,0
+ZZ000721,28/09/2004,"UK, Outside Scotland",Female,31/08/2020,Junior / U19 Women,,Junior,2019/20,RH8 0NJ,UK,51.261352,-0.008626022,,,,,,,0,0,0,0,0,0,0
+ZZ000726,12/09/1994,"UK, Outside Scotland",Female,31/08/2020,Senior Women,,Adult,2019/20,BS8 1DA,UK,51.453208,-2.611028,,,,,,,0,0,0,0,0,0,0
+ZZ000733,23/07/1999,"UK, Scotland",Female,31/08/2020,Aberdeen University,Senior Women,Student,2019/20,EH4 1HR,"Scotland, UK",55.959686,-3.2096271,31/12/2018,01/01/2019,04/03/2020,,,,2,1,1,1,0,0,2
+ZZ000737,04/10/1999,"UK, Scotland",Female,31/08/2020,Stirling University,,Student,2019/20,G20 7NA,"Scotland, UK",55.873708,-4.2690999,,,,,,,0,0,0,0,0,0,0
+ZZ000739,05/08/2000,Outside UK,Male,31/08/2020,Primary Club missing,,Student,2019/20,T4E 1B7,Canada,,,,,,,,,0,0,0,0,0,0,0
+ZZ000740,06/09/1998,"UK, Scotland",Female,31/08/2020,Primary Club missing,,Student,2019/20,FK9 5AL,"Scotland, UK",56.130445,-3.9345445,,,,,,,0,0,0,0,0,0,0
+ZZ000749,14/05/1991,"UK, Scotland",Male,31/08/2020,Edinburgh University,,Student,2019/20,EH9 1JA,"Scotland, UK",55.939287,-3.1960233,,,,,,,0,0,0,0,0,0,0
+ZZ000759,18/01/1994,"UK, Scotland",Female,31/08/2020,Stirling University,,Student,2019/20,FK9 4LU,"Scotland, UK",56.149866,-3.9235266,,,,,,,0,0,0,0,0,0,0
+ZZ000763,20/09/1992,"UK, Scotland",Male,31/08/2020,Edinburgh City,,Student,2019/20,EH11 2TJ,"Scotland, UK",55.944562,-3.2198034,,,,,,,0,0,0,0,0,0,0
+ZZ000764,18/02/1998,"UK, Scotland",Female,31/08/2020,Edinburgh Capital,,Adult,2019/20,EH10 4LZ,"Scotland, UK",55.937296,-3.2094253,,,,,,,0,0,0,0,0,0,0
+ZZ000765,09/09/1987,"UK, Scotland",Female,31/08/2020,Edinburgh Capital,,Adult,2019/20,EH3 6SA,"Scotland, UK",55.959032,-3.1984102,,,,,,,0,0,0,0,0,0,0
+ZZ000767,20/01/1993,"UK, Scotland",Female,31/08/2020,Edinburgh Capital,,Adult,2019/20,EH7 4BJ,"Scotland, UK",55.960035,-3.189423,,,,,,,0,0,0,0,0,0,0
+ZZ000769,23/06/1997,"UK, Outside Scotland",Female,31/08/2020,Edinburgh Capital,,Adult,2019/20,ST72JF,UK,53.094035,-2.3198812,,,,,,,0,0,0,0,0,0,0
+ZZ000770,30/10/2006,"UK, Scotland",Female,31/08/2020,Edinburgh Thistle,,Junior,2019/20,KY11 8GU,"Scotland, UK",56.061281,-3.394659,,,,,,,0,0,0,0,0,0,0
+ZZ000771,23/10/1996,"UK, Scotland",Female,31/08/2020,Edinburgh Thistle,,Student,2019/20,G1 1QS,"Scotland, UK",55.859819,-4.2443194,,,,,,,0,0,0,0,0,0,0
+ZZ000772,21/01/2000,"UK, Scotland",Female,31/08/2020,Edinburgh Capital,,Adult,2019/20,DG16 5HN,"Scotland, UK",55.02821,-3.0746479,,,,,,,0,0,0,0,0,0,0
+ZZ000773,04/04/1997,Outside UK,Male,31/08/2020,Senior Men - Field,,Adult,2019/20,6473,United States,,,,,,,,,0,0,0,0,0,0,0
+ZZ000774,10/02/1990,Outside UK,Male,31/08/2020,Primary Club missing,,Adult,2019/20,94062,United States,,,,,,,,,0,0,0,0,0,0,0
+ZZ000776,17/07/1990,Outside UK,Male,31/08/2020,Senior Men - Field,,Adult,2019/20,V5H 3Z5,Canada,,,,,,,,,0,0,0,0,0,0,0
+ZZ000778,11/01/2000,"UK, Scotland",Male,31/08/2020,Robert Gordon University,,Student,2019/20,AB25 1LE,"Scotland, UK",57.150515,-2.1054962,,,,,,,0,0,0,0,0,0,0
+ZZ000779,24/08/2000,"UK, Scotland",Male,31/08/2020,Primary Club missing,,Student,2019/20,EH9 1HN,"Scotland, UK",55.939171,-3.1940825,,,,,,,0,0,0,0,0,0,0
+ZZ000780,23/05/1996,"UK, Scotland",Male,31/08/2020,Edinburgh University,,Student,2019/20,EH11 2TL,"Scotland, UK",55.943487,-3.2231319,,,,,,,0,0,0,0,0,0,0
+ZZ000781,17/05/1999,"UK, Scotland",Female,31/08/2020,Glasgow City,,Student,2019/20,G3 6QT,"Scotland, UK",55.867887,-4.2665226,,,,,,,0,0,0,0,0,0,0
+ZZ000784,20/11/2005,"UK, Scotland",Female,31/08/2020,Edinburgh Thistle,,Junior,2019/20,EH4 2HE,"Scotland, UK",55.956709,-3.2298436,,,,,,,0,0,0,0,0,0,0
+ZZ000786,18/10/1994,"UK, Scotland",Male,31/08/2020,Stirling City Stags,,Adult,2019/20,FK8 1PD,"Scotland, UK",56.125273,-3.9394654,,,,,,,0,0,0,0,0,0,0
+ZZ000788,27/10/1999,"UK, Scotland",Female,31/08/2020,Primary Club missing,,Student,2019/20,DG12 6NU,"Scotland, UK",54.98347,-3.1733232,,,,,,,0,0,0,0,0,0,0
+ZZ000791,10/10/1979,"UK, Scotland",Female,31/08/2020,Edinburgh Thistle,,Adult,2019/20,EH12 6DZ,"Scotland, UK",55.946457,-3.2432895,,,,,,,0,0,0,0,0,0,0
+ZZ000792,24/02/2000,"UK, Scotland",Female,31/08/2020,Edinburgh University,,Student,2019/20,EH9 1DL,"Scotland, UK",55.936708,-3.1979128,10/10/2019,13/10/2019,,,,,1,1,1,0,0,0,1
+ZZ000793,10/01/2000,"UK, Scotland",Female,31/08/2020,Edinburgh University,,Student,2019/20,EH9 1AS,"Scotland, UK",55.935564,-3.2000546,12/10/2019,13/10/2019,,,,,1,1,1,0,0,0,1
+ZZ000796,04/11/1995,"UK, Scotland",Male,31/08/2020,Robert Gordon University,,Student,2019/20,AB15 9TY,"Scotland, UK",57.117244,-2.1936963,,,,,,,0,0,0,0,0,0,0
+ZZ000798,15/07/2000,"UK, Scotland",Female,31/08/2020,Primary Club missing,,Student,2019/20,EH14 7JD,"Scotland, UK",55.876002,-3.370074,08/10/2019,13/10/2019,,,,,1,1,1,0,0,0,1
+ZZ000801,15/04/1997,"UK, Outside Scotland",Male,31/08/2020,Primary Club missing,,Student,2019/20,OX3 7EE,UK,51.744181,-1.2039668,,,,,,,0,0,0,0,0,0,0
+ZZ000803,08/02/1999,"UK, Outside Scotland",Female,31/08/2020,Primary Club missing,,Student,2019/20,KT6 6RH,UK,51.382183,-0.30354803,,,,,,,0,0,0,0,0,0,0
+ZZ000806,17/09/1998,"UK, Scotland",Female,31/08/2020,Primary Club missing,,Student,2019/20,AB25 1NQ,"Scotland, UK",57.147827,-2.107951,,,,,,,0,0,0,0,0,0,0
+ZZ000807,05/08/1993,"UK, Outside Scotland",Female,31/08/2020,Primary Club missing,,Adult,2019/20,L1 8AE,UK,53.398939,-2.9863025,,,,,,,0,0,0,0,0,0,0
+ZZ000809,26/06/1998,"UK, Scotland",Female,31/08/2020,Robert Gordon University,,Student,2019/20,AB11 6DJ,"Scotland, UK",57.142735,-2.1064159,,,,,,,0,0,0,0,0,0,0
+ZZ000810,22/09/2003,"UK, Outside Scotland",Female,31/08/2020,Junior / U19 Women,,Junior,2019/20,SP5 3NH,UK,50.99351,-1.7667249,,,,,,,0,0,0,0,0,0,0
+ZZ000813,21/12/1999,"UK, Scotland",Female,31/08/2020,Edinburgh University,,Student,2019/20,EH1 3JU,"Scotland, UK",55.957175,-3.1878937,12/10/2019,13/10/2019,,,,,1,1,1,0,0,0,1
+ZZ000815,16/09/1999,"UK, Outside Scotland",Female,31/08/2020,Edinburgh University,,Student,2019/20,TW9 3NP,UK,51.474464,-0.28692251,12/10/2019,13/10/2019,,,,,1,1,1,0,0,0,1
+ZZ000818,10/07/2005,"UK, Outside Scotland",Female,31/08/2020,Junior / U19 Women,,Junior,2019/20,SP1 1QJ,UK,51.074562,-1.7741686,,,,,,,0,0,0,0,0,0,0
+ZZ000822,09/05/1964,"UK, Scotland",Female,31/08/2020,Edinburgh Capital,,Non-Playing/Supporter,2019/20,EH31 2BD,"Scotland, UK",56.03401,-2.8415036,,,,,,,0,0,0,0,0,0,0
+ZZ000825,03/01/2006,"UK, Outside Scotland",Female,31/08/2020,Primary Club missing,,Junior,2019/20,AL4 9XJ,UK,51.769266,-0.30194442,,,,,,,0,0,0,0,0,0,0
+ZZ000827,20/04/1981,Outside UK,Male,31/08/2020,Senior Men - Field,,Adult,2019/20,20147,United States,,,,,,,,,0,0,0,0,0,0,0
+ZZ000830,06/08/1998,"UK, Scotland",Male,31/08/2020,Aberdeen University,,Student,2019/20,AB24 5QU,"Scotland, UK",57.159759,-2.0932394,,,,,,,0,0,0,0,0,0,0
+ZZ000831,12/10/1995,"UK, Outside Scotland",Male,31/08/2020,Border City Lacrosse,,Adult,2019/20,PR4 0FF,UK,53.795099,-2.7414722,,,,,,,0,0,0,0,0,0,0
+ZZ000832,07/08/1991,"UK, Outside Scotland",Male,31/08/2020,Border City Lacrosse,,Adult,2019/20,LA8 0DP,UK,54.349637,-2.6574994,,,,,,,0,0,0,0,0,0,0
+ZZ000835,24/05/2004,"UK, Scotland",Female,31/08/2020,Junior / U19 Women,,Junior,2019/20,EH4 1PJ,"Scotland, UK",55.956573,-3.2127494,,,,,,,0,0,0,0,0,0,0
+ZZ000837,18/06/1995,"UK, Scotland",Female,31/08/2020,Glasgow City,,Student,2019/20,G3 6DY,"Scotland, UK",55.868449,-4.2657402,,,,,,,0,0,0,0,0,0,0
+ZZ000839,09/09/1993,"UK, Outside Scotland",Male,31/08/2020,Primary Club missing,,Adult,2019/20,SW19 7AR,UK,51.426406,-0.20206812,,,,,,,0,0,0,0,0,0,0
+ZZ000842,29/08/1991,Outside UK,Female,31/08/2020,Primary Club missing,,Non-Playing/Supporter,2019/20,80799,Germany,,,,,,,,,0,0,0,0,0,0,0
+ZZ000843,19/04/1997,"UK, Outside Scotland",Female,31/08/2020,Primary Club missing,,Student,2019/20,RG10 0BH,UK,51.473446,-0.85768587,,,,,,,0,0,0,0,0,0,0
+ZZ000844,14/03/1978,"UK, Outside Scotland",Male,31/08/2020,Border City Lacrosse,,Adult,2019/20,CA27 0EL,UK,54.491881,-3.5994776,,,,,,,0,0,0,0,0,0,0
+ZZ000846,15/05/1994,"UK, Scotland",Female,31/08/2020,Edinburgh Capital,,Student,2019/20,EH7 4JH,"Scotland, UK",55.964895,-3.1914465,,,,,,,0,0,0,0,0,0,0
+ZZ000848,21/02/1998,"UK, Scotland",Female,31/08/2020,Edinburgh Capital,,Student,2019/20,EH9 2AF,"Scotland, UK",55.934366,-3.1975844,,,,,,,0,0,0,0,0,0,0
+ZZ000849,27/02/2001,"UK, Scotland",Female,31/08/2020,Edinburgh Thistle,,Student,2019/20,KY16 8NS,"Scotland, UK",56.32516,-2.8351253,,,,,,,0,0,0,0,0,0,0
+ZZ000850,29/08/1995,Outside UK,Male,31/08/2020,Primary Club missing,,Student,2019/20,L1G2M9,Canada,,,,,,,,,0,0,0,0,0,0,0
+ZZ000851,27/08/1999,"UK, Outside Scotland",Female,31/08/2020,Primary Club missing,,Student,2019/20,BS6 7BN,UK,51.47088,-2.5947074,,,,,,,0,0,0,0,0,0,0
+ZZ000852,29/12/2000,"UK, Scotland",Female,31/08/2020,Primary Club missing,,Student,2019/20,AB39 2PS,"Scotland, UK",56.956876,-2.2156842,,,,,,,0,0,0,0,0,0,0
+ZZ000853,19/04/1999,"UK, Scotland",Female,31/08/2020,Aberdeen University,,Student,2019/20,AB24 5SW,"Scotland, UK",57.150883,-2.0954813,,,,,,,0,0,0,0,0,0,0
+ZZ000854,11/10/2000,"UK, Scotland",Female,31/08/2020,Aberdeen University,,Student,2019/20,AB24 5QU,"Scotland, UK",57.159759,-2.0932394,,,,,,,0,0,0,0,0,0,0
+ZZ000855,18/08/2001,"UK, Scotland",Female,31/08/2020,Aberdeen University,,Student,2019/20,AB24 1WJ,"Scotland, UK",57.175447,-2.1000434,,,,,,,0,0,0,0,0,0,0
+ZZ000856,06/09/1999,"UK, Scotland",Female,31/08/2020,Primary Club missing,,Student,2019/20,AB25 3DD,"Scotland, UK",57.154893,-2.1012606,,,,,,,0,0,0,0,0,0,0
+ZZ000857,27/03/2000,"UK, Scotland",Male,31/08/2020,Edinburgh University,,Student,2019/20,EH10 4LP,"Scotland, UK",55.938902,-3.2097315,,,,,,,0,0,0,0,0,0,0
+ZZ000858,24/12/2000,"UK, Scotland",Female,31/08/2020,Aberdeen University,,Student,2019/20,AB24 5RQ,"Scotland, UK",57.15801,-2.0905074,10/10/2019,13/10/2019,04/03/2020,,,,2,1,1,1,0,0,2
+ZZ000859,10/09/1998,"UK, Scotland",Female,31/08/2020,Aberdeen University,,Student,2019/20,AB24 1WN,"Scotland, UK",57.174699,-2.1033656,,,,,,,0,0,0,0,0,0,0
+ZZ000861,25/09/1998,"UK, Scotland",Female,31/08/2020,Primary Club missing,,Student,2019/20,AB24 1WJ,"Scotland, UK",57.175447,-2.1000434,,,,,,,0,0,0,0,0,0,0
+ZZ000862,12/05/2000,"UK, Scotland",Female,31/08/2020,Aberdeen University,,Student,2019/20,AB24 5QF,"Scotland, UK",57.160164,-2.0924965,,,,,,,0,0,0,0,0,0,0
+ZZ000863,24/07/1996,"UK, Scotland",Female,31/08/2020,Aberdeen University,,Student,2019/20,AB24 1WU,"Scotland, UK",57.175382,-2.1036653,,,,,,,0,0,0,0,0,0,0
+ZZ000864,08/04/1999,"UK, Scotland",Female,31/08/2020,Primary Club missing,,Student,2019/20,AB14 0SD,"Scotland, UK",57.09796,-2.265951,,,,,,,0,0,0,0,0,0,0
+ZZ000865,24/02/2000,"UK, Scotland",Female,31/08/2020,Aberdeen University,,Student,2019/20,IV16 9UJ,"Scotland, UK",57.662151,-4.3385041,,,,,,,0,0,0,0,0,0,0
+ZZ000867,13/01/2000,"UK, Scotland",Female,31/08/2020,Aberdeen University,,Student,2019/20,ML12 6QR,"Scotland, UK",55.469482,-3.4188018,,,,,,,0,0,0,0,0,0,0
+ZZ000868,16/01/2001,"UK, Scotland",Female,31/08/2020,Aberdeen University,,Student,2019/20,G11 5HA,"Scotland, UK",55.873761,-4.3005796,,,,,,,0,0,0,0,0,0,0
+ZZ000870,23/06/1998,"UK, Scotland",Female,31/08/2020,Aberdeen University,,Student,2019/20,AB24 3DA,"Scotland, UK",57.160816,-2.0981026,,,,,,,0,0,0,0,0,0,0
+ZZ000871,29/04/1996,"UK, Scotland",Female,31/08/2020,Edinburgh Capital,,Adult,2019/20,EH4 1HR,"Scotland, UK",55.959686,-3.2096271,,,,,,,0,0,0,0,0,0,0
+ZZ000874,08/06/2005,"UK, Outside Scotland",Female,31/08/2020,Junior / U19 Women,,Junior,2019/20,HP4 2NP,UK,51.752493,-0.55234005,,,,,,,0,0,0,0,0,0,0
+ZZ000875,02/02/1995,"UK, Outside Scotland",Female,31/08/2020,Primary Club missing,,Student,2019/20,CV5 8EH,UK,52.40815,-1.534077,,,,,,,0,0,0,0,0,0,0
+ZZ000876,24/05/1999,"UK, Scotland",Female,31/08/2020,Robert Gordon University,,Student,2019/20,AB10 6SD,"Scotland, UK",57.141344,-2.1152191,,,,,,,0,0,0,0,0,0,0
+ZZ000879,28/07/1988,Outside UK,Male,31/08/2020,Senior Men - Field,,Adult,2019/20,V9L5M1,Canada,,,,,,,,,0,0,0,0,0,0,0
+ZZ000880,02/11/1989,"UK, Outside Scotland",Male,31/08/2020,Primary Club missing,,Adult,2019/20,E8 1EX,UK,51.546045,-0.058424735,,,,,,,0,0,0,0,0,0,0
+ZZ000881,10/08/2000,"UK, Scotland",Male,31/08/2020,Edinburgh University,,Student,2019/20,EH16 5AY,"Scotland, UK",55.940074,-3.1711361,,,,,,,0,0,0,0,0,0,0
+ZZ000882,06/07/1997,"UK, Scotland",Female,31/08/2020,Robert Gordon University,,Student,2019/20,DD6 8PR,"Scotland, UK",56.425099,-2.9760625,,,,,,,0,0,0,0,0,0,0
+ZZ000883,27/02/2000,"UK, Scotland",Female,31/08/2020,Primary Club missing,,Student,2019/20,AB10 6RF,"Scotland, UK",57.139174,-2.1210779,,,,,,,0,0,0,0,0,0,0
+ZZ000890,24/08/2001,"UK, Outside Scotland",Male,31/08/2020,Senior Men - Field,,Student,2019/20,SK9 2GX,UK,53.334136,-2.2162444,,,,,,,0,0,0,0,0,0,0
+ZZ000892,02/10/1986,Outside UK,Male,31/08/2020,Primary Club missing,,Adult,2019/20,V3L 5V8,Canada,,,,,,,,,0,0,0,0,0,0,0
+ZZ000893,10/03/1998,"UK, Scotland",Female,31/08/2020,Primary Club missing,,Student,2019/20,AB24 1WU,"Scotland, UK",57.175382,-2.1036653,,,,,,,0,0,0,0,0,0,0
+ZZ000897,02/07/2001,"UK, Scotland",Female,31/08/2020,Robert Gordon University,,Student,2019/20,AB24 5BU,"Scotland, UK",57.153668,-2.0944141,,,,,,,0,0,0,0,0,0,0
+ZZ000898,08/03/1996,"UK, Scotland",Male,31/08/2020,Primary Club missing,,Student,2019/20,AB24 3JX,"Scotland, UK",57.159212,-2.1041655,,,,,,,0,0,0,0,0,0,0
+ZZ000899,12/03/2001,"UK, Scotland",Female,31/08/2020,Edinburgh University,,Student,2019/20,EH16 5AY,"Scotland, UK",55.940074,-3.1711361,,,,,,,0,0,0,0,0,0,0
+ZZ000900,28/09/1996,"UK, Scotland",Female,31/08/2020,Primary Club missing,,Student,2019/20,G12 8LL,"Scotland, UK",55.874105,-4.2845497,,,,,,,0,0,0,0,0,0,0
+ZZ000901,31/10/2005,"UK, Scotland",Female,31/08/2020,Edinburgh Thistle,,Junior,2019/20,EH10 6UQ,"Scotland, UK",55.905685,-3.1993075,,,,,,,0,0,0,0,0,0,0
+ZZ000903,09/10/1998,"UK, Outside Scotland",Female,31/08/2020,Primary Club missing,,Student,2019/20,AL9 6AR,UK,51.762892,-0.15524195,,,,,,,0,0,0,0,0,0,0
+ZZ000906,04/06/1991,Outside UK,Male,31/08/2020,Primary Club missing,,Adult,2019/20,v9a 3r6,Canada,,,,,,,,,0,0,0,0,0,0,0
+ZZ000908,12/08/1997,"UK, Scotland",Female,31/08/2020,Edinburgh Thistle,,Adult,2019/20,EH12 5LS,"Scotland, UK",55.946563,-3.2300023,,,,,,,0,0,0,0,0,0,0
+ZZ000909,29/01/2005,"UK, Outside Scotland",Female,31/08/2020,Primary Club missing,,Junior,2019/20,GU28 9HA,UK,51.037696,-0.67807801,,,,,,,0,0,0,0,0,0,0
+ZZ000910,11/08/2006,"UK, Outside Scotland",Female,31/08/2020,Junior / U19 Women,,Junior,2019/20,SE21 8HE,UK,51.43878,-0.095610555,,,,,,,0,0,0,0,0,0,0
+ZZ000911,11/08/2006,"UK, Outside Scotland",Female,31/08/2020,Junior / U19 Women,,Junior,2019/20,SE21 8HE,UK,51.43878,-0.095610555,,,,,,,0,0,0,0,0,0,0
+ZZ000912,23/02/1998,"UK, Outside Scotland",Female,31/08/2020,Edinburgh Thistle,,Adult,2019/20,LE17 4EL,UK,52.457738,-1.2035274,,,,,,,0,0,0,0,0,0,0
+ZZ000915,29/08/2002,Outside UK,Male,31/08/2020,Primary Club missing,,Junior,2019/20,L0A 1G0,Canada,,,,,,,,,0,0,0,0,0,0,0
+ZZ000918,31/07/2001,"UK, Outside Scotland",Female,31/08/2020,Edinburgh University,,Student,2019/20,W4 1HW,UK,51.498366,-0.25761571,,,,,,,0,0,0,0,0,0,0
+ZZ000919,02/11/1999,Outside UK,Male,31/08/2020,Primary Club missing,,Student,2019/20,140208,United States,,,,,,,,,0,0,0,0,0,0,0
+ZZ000920,14/12/2004,"UK, Outside Scotland",Female,31/08/2020,Junior / U19 Women,,Junior,2019/20,SW6 2AR,UK,51.475547,-0.19079095,,,,,,,0,0,0,0,0,0,0
+ZZ000922,28/05/1998,"UK, Scotland",Female,31/08/2020,Robert Gordon University,,Student,2019/20,AB15 6WA,"Scotland, UK",57.140108,-2.1457335,,,,,,,0,0,0,0,0,0,0
+ZZ000924,11/10/1990,Outside UK,Male,31/08/2020,Primary Club missing,,Adult,2019/20,8527,United States,,,,,,,,,0,0,0,0,0,0,0
+ZZ000925,23/05/1998,"UK, Outside Scotland",Female,31/08/2020,Edinburgh University,,Student,2019/20,TW11 8NE,UK,51.432275,-0.33206253,,,,,,,0,0,0,0,0,0,0
+ZZ000926,06/03/2000,"UK, Outside Scotland",Female,31/08/2020,Edinburgh University,,Student,2019/20,ME17 4PB,UK,51.228971,0.50010161,,,,,,,0,0,0,0,0,0,0
+ZZ000927,17/05/2000,"UK, Outside Scotland",Female,31/08/2020,Edinburgh University,,Student,2019/20,SL4 3LE,UK,51.475085,-0.61355157,,,,,,,0,0,0,0,0,0,0
+ZZ000928,04/12/1993,"UK, Scotland",Male,31/08/2020,Primary Club missing,,Adult,2019/20,G73 5RW,"Scotland, UK",55.803684,-4.1904555,,,,,,,0,0,0,0,0,0,0
+ZZ000929,04/07/2001,"UK, Scotland",Female,31/08/2020,Robert Gordon University,,Student,2019/20,AB10 7LG,"Scotland, UK",57.129539,-2.1167681,,,,,,,0,0,0,0,0,0,0
+ZZ000935,27/09/1998,"UK, Outside Scotland",Female,31/08/2020,Edinburgh University,,Student,2019/20,TN15 8JH,UK,51.291144,0.31831848,,,,,,,0,0,0,0,0,0,0
+ZZ000936,22/05/1997,"UK, Scotland",Female,31/08/2020,Edinburgh University,,Student,2019/20,EH9 1AR,"Scotland, UK",55.935599,-3.1982788,,,,,,,0,0,0,0,0,0,0
+ZZ000937,03/02/1998,"UK, Outside Scotland",Female,31/08/2020,Edinburgh Capital,,Adult,2019/20,PH13 9JP,UK,56.53886,-3.2337746,,,,,,,0,0,0,0,0,0,0
+ZZ000938,04/11/1998,"UK, Scotland",Female,31/08/2020,Robert Gordon University,,Student,2019/20,AB11 6DJ,"Scotland, UK",57.142735,-2.1064159,,,,,,,0,0,0,0,0,0,0
+ZZ000939,09/09/2002,Outside UK,Male,31/08/2020,Primary Club missing,,Junior,2019/20,L6K 1R5,Canada,,,,,,,,,0,0,0,0,0,0,0
+ZZ000940,20/06/1999,Outside UK,Female,31/08/2020,Edinburgh University,,Student,2019/20,8540,United States,,,,,,,,,0,0,0,0,0,0,0
+ZZ000942,02/02/2001,Outside UK,Female,31/08/2020,Edinburgh University,,Student,2019/20,94043,United States,,,,13/10/2019,,,,,0,0,1,0,0,0,0
+ZZ000943,05/02/2000,Outside UK,Male,31/08/2020,Primary Club missing,,Student,2019/20,21221,United States,,,,,,,,,0,0,0,0,0,0,0
+ZZ000945,25/08/2004,"UK, Scotland",Female,31/08/2020,Junior / U19 Women,,Junior,2019/20,EH53 0AX,"Scotland, UK",55.894296,-3.4781667,,,,,,,0,0,0,0,0,0,0
+ZZ000946,26/08/1996,"UK, Scotland",Female,31/08/2020,Edinburgh Capital,,Adult,2019/20,EH8 8HX,"Scotland, UK",55.954914,-3.1649695,,,,,,,0,0,0,0,0,0,0
+ZZ000947,15/03/1986,"UK, Outside Scotland",Male,31/08/2020,Border City Lacrosse,,Adult,2019/20,CA2 4UH,UK,54.851043,-2.926514,,,,,,,0,0,0,0,0,0,0
+ZZ000950,20/08/2006,"UK, Scotland",Female,31/08/2020,Edinburgh Thistle,,Junior,2019/20,EH4 6JL,"Scotland, UK",55.966687,-3.2884289,,,,,,,0,0,0,0,0,0,0
+ZZ000951,22/07/2006,"UK, Scotland",Female,31/08/2020,Edinburgh Thistle,,Junior,2019/20,EH22 4JJ,"Scotland, UK",55.869517,-3.0594152,,,,,,,0,0,0,0,0,0,0
+ZZ000953,12/10/1996,"UK, Scotland",Female,31/08/2020,Edinburgh Thistle,,Student,2019/20,EH4 1PT,"Scotland, UK",55.954399,-3.2145232,,,,,,,0,0,0,0,0,0,0
+ZZ000964,18/11/2005,"UK, Scotland",Female,31/08/2020,Edinburgh Thistle,,Junior,2019/20,EH4 2UL,"Scotland, UK",55.967503,-3.2377321,,,,,,,0,0,0,0,0,0,0
+ZZ000966,16/04/2000,"UK, Scotland",Male,31/08/2020,Glasgow University,,Student,2019/20,G3 8PE,"Scotland, UK",55.864501,-4.2887164,,,,,,,0,0,0,0,0,0,0
+ZZ000967,21/01/1983,"UK, Outside Scotland",Male,31/08/2020,Border City Lacrosse,,Adult,2019/20,CA10 2PG,UK,54.605306,-2.7583399,,,,,,,0,0,0,0,0,0,0
+ZZ000969,21/01/1999,"UK, Scotland",Female,31/08/2020,Glasgow City,,Student,2019/20,KA15 1EU,"Scotland, UK",55.747898,-4.630561,,,,,,,0,0,0,0,0,0,0
+ZZ000970,01/01/1995,"UK, Scotland",Male,31/08/2020,Robert Gordon University,,Adult,2019/20,AB11 7SZ,"Scotland, UK",57.134435,-2.106359,,,,,,,0,0,0,0,0,0,0
+ZZ000973,29/07/1987,"UK, Outside Scotland",Male,31/08/2020,Primary Club missing,,Adult,2019/20,CA49RQ,UK,54.795918,-2.7106863,,,,,,,0,0,0,0,0,0,0
+ZZ000979,19/12/2000,"UK, Scotland",Female,31/08/2020,Primary Club missing,,Student,2019/20,AB24 1WQ,"Scotland, UK",57.174233,-2.1021736,,,,,,,0,0,0,0,0,0,0
+ZZ000980,01/06/2001,"UK, Scotland",Female,31/08/2020,Primary Club missing,,Student,2019/20,AB24 1WJ,"Scotland, UK",57.175447,-2.1000434,,,,,,,0,0,0,0,0,0,0
+ZZ000982,04/10/2000,"UK, Scotland",Female,31/08/2020,St Andrews University,,Student,2019/20,KY16 9BX,"Scotland, UK",56.338722,-2.8032478,,,,,,,0,0,0,0,0,0,0
+ZZ000983,06/01/1998,"UK, Scotland",Female,31/08/2020,St Andrews University,,Student,2019/20,KY16 9LU,"Scotland, UK",56.335363,-2.8154213,,,,,,,0,0,0,0,0,0,0
+ZZ000984,24/10/2000,"UK, Scotland",Female,31/08/2020,St Andrews University,,Student,2019/20,KY16 9LY,"Scotland, UK",56.336164,-2.82207,,,,,,,0,0,0,0,0,0,0
+ZZ000985,20/12/1998,"UK, Scotland",Female,31/08/2020,St Andrews University,,Student,2019/20,KY16 9BU,"Scotland, UK",56.338303,-2.8040963,,,,,,,0,0,0,0,0,0,0
+ZZ000986,31/07/2000,"UK, Scotland",Female,31/08/2020,St Andrews University,,Student,2019/20,KY16 9BX,"Scotland, UK",56.338722,-2.8032478,,,,,,,0,0,0,0,0,0,0
+ZZ000987,11/07/2001,"UK, Scotland",Female,31/08/2020,St Andrews University,,Student,2019/20,KY16 9XW,"Scotland, UK",56.340449,-2.8140415,,,,,,,0,0,0,0,0,0,0
+ZZ000988,04/05/1999,"UK, Scotland",Female,31/08/2020,St Andrews University,,Student,2019/20,KY16 9DG,"Scotland, UK",56.33567,-2.8111739,,,,,,,0,0,0,0,0,0,0
+ZZ000989,04/11/2000,"UK, Scotland",Female,31/08/2020,St Andrews University,,Student,2019/20,KY16 8AJ,"Scotland, UK",56.334964,-2.7995458,,,,,,,0,0,0,0,0,0,0
+ZZ000990,10/02/2000,"UK, Scotland",Female,31/08/2020,St Andrews University,,Student,2019/20,KY16 9HT,"Scotland, UK",56.341913,-2.8016163,,,,,,,0,0,0,0,0,0,0
+ZZ000991,26/10/2000,"UK, Scotland",Female,31/08/2020,St Andrews University,,Student,2019/20,KY16 9UH,"Scotland, UK",56.339708,-2.7967495,,,,,,,0,0,0,0,0,0,0
+ZZ000992,24/10/2000,"UK, Scotland",Female,31/08/2020,St Andrews University,,Student,2019/20,KY16 9LY,"Scotland, UK",56.336164,-2.82207,,,,,,,0,0,0,0,0,0,0
+ZZ000993,27/08/1999,"UK, Scotland",Female,31/08/2020,St Andrews University,,Student,2019/20,KY16 9AZ,"Scotland, UK",56.341876,-2.7921357,,,,,,,0,0,0,0,0,0,0
+ZZ000994,06/08/1998,"UK, Scotland",Female,31/08/2020,St Andrews University,,Student,2019/20,KY16 9DG,"Scotland, UK",56.33567,-2.8111739,,,,,,,0,0,0,0,0,0,0
+ZZ000995,03/09/1997,"UK, Outside Scotland",Male,31/08/2020,Border City Lacrosse,,Student,2019/20,CA28 7EX,UK,54.549334,-3.5864339,,,,,,,0,0,0,0,0,0,0
+ZZ000997,15/12/1991,"UK, Outside Scotland",Male,31/08/2020,Border City Lacrosse,,Student,2019/20,CA14 3DD,UK,54.640155,-3.5469064,,,,,,,0,0,0,0,0,0,0
+ZZ000999,07/04/1995,"UK, Scotland",Female,31/08/2020,Glasgow City,,Student,2019/20,G1 1DT,"Scotland, UK",55.859193,-4.2505315,,,,,,,0,0,0,0,0,0,0
+ZZ001000,07/02/2001,Outside UK,Male,31/08/2020,Primary Club missing,,Student,2019/20,L1K 2R5,Canada,,,,,,,,,0,0,0,0,0,0,0
+ZZ001008,31/01/2000,Outside UK,Male,31/08/2020,Primary Club missing,,Non-Playing/Supporter,2019/20,K9L 1E4,Canada,,,,,,,,,0,0,0,0,0,0,0
+ZZ001010,26/09/1983,"UK, Scotland",Male,31/08/2020,Primary Club missing,,Non-Playing/Supporter,2019/20,DD7 6BS,"Scotland, UK",56.503846,-2.6993995,,,,,,,0,0,0,0,0,0,0
+ZZ001012,24/10/1979,Outside UK,Male,31/08/2020,Primary Club missing,,Non-Playing/Supporter,2019/20,10590,United States,,,,,,,,,0,0,0,0,0,0,0
+ZZ001013,08/07/1977,Outside UK,Male,31/08/2020,Primary Club missing,,Non-Playing/Supporter,2019/20,L9T 5R5,Canada,,,,,,,,,0,0,0,0,0,0,0
+ZZ001014,16/01/2001,Outside UK,Male,31/08/2020,Primary Club missing,,Student,2019/20,L9T 5R5,Canada,,,,,,,,,0,0,0,0,0,0,0
+ZZ001019,11/06/1982,"UK, Scotland",Male,31/08/2020,Primary Club missing,,Non-Playing/Supporter,2019/20,FK15 0BN,"Scotland, UK",56.192843,-3.9598621,,,,,,,0,0,0,0,0,0,0
